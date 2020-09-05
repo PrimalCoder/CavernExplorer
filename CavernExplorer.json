@@ -7,7 +7,6 @@
     "revision": 0
   },
   "properties": {
-    "adMobAppId": "",
     "adaptGameResolutionAtRuntime": true,
     "folderProject": false,
     "linuxExecutableFilename": "",
@@ -33,6 +32,7 @@
     "loadingScreen": {
       "showGDevelopSplash": true
     },
+    "extensionProperties": [],
     "extensions": [
       {
         "name": "BuiltinObject"
@@ -2860,6 +2860,7 @@
           "layer": "",
           "locked": false,
           "name": "ground01",
+          "persistentUuid": "bf2bb6ce-492e-4ef6-9110-f4332ea93286",
           "width": 535,
           "x": 147,
           "y": 421,
@@ -2875,6 +2876,7 @@
           "layer": "",
           "locked": false,
           "name": "ground01",
+          "persistentUuid": "1d6ad7ac-1148-476f-9beb-d70b520892dc",
           "width": 302,
           "x": 853,
           "y": 75,
@@ -2890,6 +2892,7 @@
           "layer": "",
           "locked": false,
           "name": "ground01",
+          "persistentUuid": "840b4836-7201-4023-b8b7-682df5d4d0b9",
           "width": 197,
           "x": 609,
           "y": 73,
@@ -2905,6 +2908,7 @@
           "layer": "",
           "locked": false,
           "name": "ground01",
+          "persistentUuid": "11f7f7b9-bcdb-4204-a8c9-d33d9b43863f",
           "width": 308,
           "x": -1,
           "y": 75,
@@ -2920,6 +2924,7 @@
           "layer": "",
           "locked": false,
           "name": "Wall01",
+          "persistentUuid": "588a1c5b-1c08-4d14-9b31-4b4b8caac4a8",
           "width": 902,
           "x": -886,
           "y": 3672,
@@ -2935,6 +2940,7 @@
           "layer": "",
           "locked": false,
           "name": "Ground02",
+          "persistentUuid": "f0b18356-0d2d-495a-8a01-6509ddebb8d6",
           "width": 2648,
           "x": 795,
           "y": 653,
@@ -2950,6 +2956,7 @@
           "layer": "",
           "locked": false,
           "name": "Spikes",
+          "persistentUuid": "6ca325a8-4b8e-497b-a9d2-0fe890e8ff28",
           "width": 692,
           "x": 0,
           "y": 209,
@@ -2965,6 +2972,7 @@
           "layer": "",
           "locked": false,
           "name": "Spikes",
+          "persistentUuid": "997a8374-ec8c-47a6-b26a-1acf1c31f9ef",
           "width": 47,
           "x": 1,
           "y": 619,
@@ -2980,6 +2988,7 @@
           "layer": "",
           "locked": false,
           "name": "Wall01",
+          "persistentUuid": "eed4a9bc-99e1-4e2a-b1af-d6b01f20c191",
           "width": 140,
           "x": 2963,
           "y": 349,
@@ -2995,6 +3004,7 @@
           "layer": "",
           "locked": false,
           "name": "Wall01",
+          "persistentUuid": "bcdad18a-22aa-4477-8a10-6d83cb400147",
           "width": 79,
           "x": 1654,
           "y": 208,
@@ -3010,6 +3020,7 @@
           "layer": "",
           "locked": false,
           "name": "Ground02",
+          "persistentUuid": "4340bd8e-36b4-4881-b517-38f81bc97793",
           "width": 269,
           "x": 2834,
           "y": 305,
@@ -3025,6 +3036,7 @@
           "layer": "",
           "locked": false,
           "name": "Wall01",
+          "persistentUuid": "d72fae50-1922-45f4-9313-609a290399ff",
           "width": 79,
           "x": 1733,
           "y": 169,
@@ -3040,6 +3052,7 @@
           "layer": "",
           "locked": false,
           "name": "Ground02",
+          "persistentUuid": "88335b85-d9e2-4bea-b548-f4972a825b10",
           "width": 1312,
           "x": 778,
           "y": 240,
@@ -3055,6 +3068,7 @@
           "layer": "",
           "locked": false,
           "name": "Ground02",
+          "persistentUuid": "fb3d04b6-2c15-465e-b617-98d1f6424e8b",
           "width": 963,
           "x": 2141,
           "y": -40,
@@ -3070,6 +3084,7 @@
           "layer": "",
           "locked": false,
           "name": "Spikes",
+          "persistentUuid": "b0917ff3-51b5-4182-98fb-e0e2dc11e3c3",
           "width": 550,
           "x": 2099,
           "y": 273,
@@ -3085,6 +3100,7 @@
           "layer": "",
           "locked": false,
           "name": "Wall01",
+          "persistentUuid": "ba65c1eb-9273-40b2-b4b5-187c1a4a9b64",
           "width": 277,
           "x": 1729,
           "y": 463,
@@ -3100,6 +3116,7 @@
           "layer": "",
           "locked": false,
           "name": "Ground02",
+          "persistentUuid": "cf8e8e22-968e-431e-8a9e-db5fcac48c92",
           "width": 656,
           "x": 2092,
           "y": 304,
@@ -3115,6 +3132,7 @@
           "layer": "",
           "locked": false,
           "name": "Ground02",
+          "persistentUuid": "80fb4417-6aee-4f53-87bc-7230da4cd508",
           "width": 878,
           "x": 1278,
           "y": -41,
@@ -3130,6 +3148,7 @@
           "layer": "",
           "locked": false,
           "name": "Ladder",
+          "persistentUuid": "d13b3ac8-05bf-4c0e-be7f-0b858c2a4015",
           "width": 84,
           "x": 3309,
           "y": 227,
@@ -3145,6 +3164,7 @@
           "layer": "",
           "locked": false,
           "name": "Ladder",
+          "persistentUuid": "622d9985-6225-4b41-8d3c-f0d7bc0dde38",
           "width": 84,
           "x": 2748,
           "y": 302,
@@ -3160,6 +3180,7 @@
           "layer": "",
           "locked": false,
           "name": "ground01",
+          "persistentUuid": "51e22f31-6790-4737-a6fe-213734df92bc",
           "width": 1125,
           "x": 788,
           "y": 418,
@@ -3175,6 +3196,7 @@
           "layer": "",
           "locked": false,
           "name": "Wall01",
+          "persistentUuid": "938f1da9-ef1d-4436-a1c9-a76dc05eb12d",
           "width": 144,
           "x": 2959,
           "y": 21,
@@ -3190,6 +3212,7 @@
           "layer": "",
           "locked": false,
           "name": "Weed",
+          "persistentUuid": "b3f7db14-a6e9-47a2-ac12-a39fc7aa872c",
           "width": 870,
           "x": 2092,
           "y": 364,
@@ -3205,6 +3228,7 @@
           "layer": "",
           "locked": false,
           "name": "ground01",
+          "persistentUuid": "406765bd-02de-47eb-8e3f-9677fd8ec3cd",
           "width": 973,
           "x": 2139,
           "y": 507,
@@ -3220,6 +3244,7 @@
           "layer": "",
           "locked": false,
           "name": "Wall01",
+          "persistentUuid": "8efc77b1-9ae0-43ff-863a-b5173ca2f7db",
           "width": 277,
           "x": 1812,
           "y": 147,
@@ -3235,6 +3260,7 @@
           "layer": "",
           "locked": false,
           "name": "Wall01",
+          "persistentUuid": "23709fdf-c602-489d-97d8-bf9e90458518",
           "width": 277,
           "x": 1864,
           "y": 514,
@@ -3250,6 +3276,7 @@
           "layer": "",
           "locked": false,
           "name": "Wall01",
+          "persistentUuid": "ec1bd12d-bfcb-488f-aaf6-675464168748",
           "width": 277,
           "x": 1791,
           "y": 487,
@@ -3265,6 +3292,7 @@
           "layer": "",
           "locked": false,
           "name": "Ground02",
+          "persistentUuid": "85dd64ac-6184-46f3-ae42-2a7a4e98dea3",
           "width": 697,
           "x": 0,
           "y": 241,
@@ -3280,6 +3308,7 @@
           "layer": "",
           "locked": false,
           "name": "Ground02",
+          "persistentUuid": "430811f7-a725-4ad1-9eb3-74f9b7afe4bf",
           "width": 177,
           "x": 60,
           "y": 582,
@@ -3295,6 +3324,7 @@
           "layer": "",
           "locked": false,
           "name": "CaveBG02",
+          "persistentUuid": "d07c65d8-bbe7-4615-a1ee-c26972709b3b",
           "width": 4028,
           "x": -16,
           "y": 2087,
@@ -3310,6 +3340,7 @@
           "layer": "",
           "locked": false,
           "name": "ground01",
+          "persistentUuid": "d54cd996-b65d-42ad-8447-1d36bcdf8769",
           "width": 162,
           "x": 379,
           "y": 73,
@@ -3325,6 +3356,7 @@
           "layer": "",
           "locked": false,
           "name": "Wall01",
+          "persistentUuid": "c936e513-6cf2-4bad-9fdf-44d4f358aab9",
           "width": 124,
           "x": 1156,
           "y": -27,
@@ -3340,6 +3372,7 @@
           "layer": "",
           "locked": false,
           "name": "Spikes",
+          "persistentUuid": "98c3ed55-1499-4699-ad7c-c41d80e3b6fe",
           "width": 47,
           "x": 1393,
           "y": 225,
@@ -3355,6 +3388,7 @@
           "layer": "",
           "locked": false,
           "name": "PickAxe",
+          "persistentUuid": "34768a8a-ec2e-4e28-a1d3-a91b315e2b00",
           "width": 37,
           "x": 2922,
           "y": 269,
@@ -3370,6 +3404,7 @@
           "layer": "",
           "locked": false,
           "name": "Spear",
+          "persistentUuid": "934164fa-b2fa-424b-ac1f-cbfbf2c052ed",
           "width": 21,
           "x": 1128,
           "y": 652,
@@ -3385,6 +3420,7 @@
           "layer": "",
           "locked": false,
           "name": "Spear",
+          "persistentUuid": "e4b406a7-8b64-47d2-8ff6-db585f44f8a8",
           "width": 21,
           "x": 1111,
           "y": 418,
@@ -3400,6 +3436,7 @@
           "layer": "",
           "locked": false,
           "name": "Spear",
+          "persistentUuid": "89eddd19-e8b1-4167-a62d-2030018aec65",
           "width": 21,
           "x": 1616,
           "y": 651,
@@ -3415,6 +3452,7 @@
           "layer": "",
           "locked": false,
           "name": "Spear",
+          "persistentUuid": "75508ed8-8a72-4351-997e-e5c8a442f23e",
           "width": 21,
           "x": 1410,
           "y": 653,
@@ -3430,6 +3468,7 @@
           "layer": "",
           "locked": false,
           "name": "Spear",
+          "persistentUuid": "06dc2314-6cbe-4b76-b7df-a7330c5f7d26",
           "width": 21,
           "x": 1594,
           "y": 419,
@@ -3445,6 +3484,7 @@
           "layer": "",
           "locked": false,
           "name": "Ground02",
+          "persistentUuid": "f0e8d1f2-3ac6-4bdf-84f2-5a9c00e4057d",
           "width": 216,
           "x": 3087,
           "y": 228,
@@ -3460,6 +3500,7 @@
           "layer": "",
           "locked": false,
           "name": "Ladder",
+          "persistentUuid": "f3c3af36-c2aa-4fca-9608-bb36181c54b1",
           "width": 84,
           "x": 2748,
           "y": 404,
@@ -3475,6 +3516,7 @@
           "layer": "",
           "locked": false,
           "name": "Ladder",
+          "persistentUuid": "fa690244-595d-4a3c-b2dd-6ddd16a4ed93",
           "width": 84,
           "x": 3311,
           "y": 549,
@@ -3490,6 +3532,7 @@
           "layer": "",
           "locked": false,
           "name": "Ladder",
+          "persistentUuid": "e7bb4a12-3dd3-4fac-9db7-ac67d783b90a",
           "width": 84,
           "x": 3311,
           "y": 440,
@@ -3505,6 +3548,7 @@
           "layer": "",
           "locked": false,
           "name": "Ladder",
+          "persistentUuid": "bdbcd9b4-86f5-4595-b77f-c496abc07d9f",
           "width": 84,
           "x": 3309,
           "y": 334,
@@ -3520,6 +3564,7 @@
           "layer": "",
           "locked": false,
           "name": "Sheet",
+          "persistentUuid": "a75fd341-013d-446d-9e3f-32f8464c2f8b",
           "width": 42,
           "x": 1092,
           "y": 23,
@@ -3535,6 +3580,7 @@
           "layer": "",
           "locked": false,
           "name": "Rope",
+          "persistentUuid": "5ba624be-eb36-46f0-b401-e0bc07ded434",
           "width": 44,
           "x": 3923,
           "y": 211,
@@ -3550,6 +3596,7 @@
           "layer": "",
           "locked": false,
           "name": "ground01",
+          "persistentUuid": "56ec28f1-27b0-4b18-8670-80572b1d7d6a",
           "width": 3750,
           "x": 247,
           "y": 1399,
@@ -3565,6 +3612,7 @@
           "layer": "",
           "locked": false,
           "name": "DropSpike",
+          "persistentUuid": "270db888-6b47-40c4-a387-4996ba7d0612",
           "width": 128,
           "x": 1579,
           "y": 713,
@@ -3585,6 +3633,7 @@
           "layer": "",
           "locked": false,
           "name": "DropSpike",
+          "persistentUuid": "924fd5db-7560-492a-aa56-96f53ca1141b",
           "width": 128,
           "x": 2994,
           "y": 714,
@@ -3605,6 +3654,7 @@
           "layer": "",
           "locked": false,
           "name": "DropSpike",
+          "persistentUuid": "caa6a4ba-9c6b-4722-bb6d-c828f5843afa",
           "width": 128,
           "x": 2567,
           "y": 716,
@@ -3625,6 +3675,7 @@
           "layer": "",
           "locked": false,
           "name": "MiniSteamVolacano",
+          "persistentUuid": "048c1d74-6bad-407c-a80f-f4bf4b508a80",
           "width": 80,
           "x": 375,
           "y": 1359,
@@ -3640,6 +3691,7 @@
           "layer": "",
           "locked": false,
           "name": "MiniSteamVolacano",
+          "persistentUuid": "566d439b-4d0d-47c0-9258-7ef4fd3d34f0",
           "width": 80,
           "x": 998,
           "y": 1355,
@@ -3655,6 +3707,7 @@
           "layer": "",
           "locked": false,
           "name": "MiniSteamVolacano",
+          "persistentUuid": "c0f2af79-aeca-422b-8224-01744eac8030",
           "width": 80,
           "x": 674,
           "y": 1353,
@@ -3670,6 +3723,7 @@
           "layer": "",
           "locked": false,
           "name": "MiniSteamVolacanoUp",
+          "persistentUuid": "f2a64c9e-1f0c-429b-9c20-731de8babdd9",
           "width": 84,
           "x": 298,
           "y": 1464,
@@ -3685,6 +3739,7 @@
           "layer": "",
           "locked": false,
           "name": "MiniSteamVolacanoUp",
+          "persistentUuid": "69f3bc02-e2da-4fea-8629-23c9ba9b4635",
           "width": 84,
           "x": 948,
           "y": 1468,
@@ -3700,6 +3755,7 @@
           "layer": "",
           "locked": false,
           "name": "MiniSteamVolacanoUp",
+          "persistentUuid": "e5eac3c2-5e64-4eff-8dad-a882658219de",
           "width": 84,
           "x": 1314,
           "y": 1468,
@@ -3715,6 +3771,7 @@
           "layer": "",
           "locked": false,
           "name": "MiniSteamVolacanoUp",
+          "persistentUuid": "933c1df9-a2a0-450f-98ce-daa2c56ebfe9",
           "width": 84,
           "x": 1777,
           "y": 1465,
@@ -3730,6 +3787,7 @@
           "layer": "",
           "locked": false,
           "name": "MiniSteamVolacanoUp",
+          "persistentUuid": "0fab59a9-4485-4111-880b-fc7e11a0fabc",
           "width": 84,
           "x": 3016,
           "y": 1465,
@@ -3745,6 +3803,7 @@
           "layer": "",
           "locked": false,
           "name": "MiniSteamVolacanoUp",
+          "persistentUuid": "7d1a8c7f-ad9c-41ce-9df2-9aada36e7b37",
           "width": 84,
           "x": 2245,
           "y": 1466,
@@ -3760,6 +3819,7 @@
           "layer": "",
           "locked": false,
           "name": "Ground02",
+          "persistentUuid": "46d649ca-e65f-49b4-890c-9277bc66c761",
           "width": 243,
           "x": 3751,
           "y": 2100,
@@ -3775,6 +3835,7 @@
           "layer": "",
           "locked": false,
           "name": "CaveBG02",
+          "persistentUuid": "103b1580-c9dc-4f1e-b7b6-5acb8852bd86",
           "width": 4016,
           "x": -12,
           "y": -30,
@@ -3790,6 +3851,7 @@
           "layer": "",
           "locked": false,
           "name": "DropPlatform",
+          "persistentUuid": "44b1148c-a952-4616-b634-51c6447e4448",
           "width": 219,
           "x": 3540,
           "y": 2620,
@@ -3810,6 +3872,7 @@
           "layer": "",
           "locked": false,
           "name": "DropPlatform",
+          "persistentUuid": "2bdc6514-67cb-4fe4-8c3c-5eb3e983bcd4",
           "width": 320,
           "x": 3378,
           "y": 2071,
@@ -3830,6 +3893,7 @@
           "layer": "",
           "locked": false,
           "name": "DropPlatform",
+          "persistentUuid": "f08a4c82-6a22-4115-a245-fd3e8af9ecd3",
           "width": 320,
           "x": 3000,
           "y": 2034,
@@ -3850,6 +3914,7 @@
           "layer": "",
           "locked": false,
           "name": "DropPlatform",
+          "persistentUuid": "1b35cece-d56b-4d22-8087-8d8594017c1e",
           "width": 320,
           "x": 2645,
           "y": 2011,
@@ -3870,6 +3935,7 @@
           "layer": "",
           "locked": false,
           "name": "DropPlatform",
+          "persistentUuid": "73d1baaf-851f-45bc-bd4f-135bdbdf166d",
           "width": 320,
           "x": 1933,
           "y": 2017,
@@ -3890,6 +3956,7 @@
           "layer": "",
           "locked": false,
           "name": "DropPlatform",
+          "persistentUuid": "e6c02059-acbd-4eb4-815f-6d0ebe71c4c7",
           "width": 320,
           "x": 1203,
           "y": 2012,
@@ -3910,6 +3977,7 @@
           "layer": "",
           "locked": false,
           "name": "DropPlatform",
+          "persistentUuid": "0a7bd1dd-2923-45c5-9a5a-f314a36befd7",
           "width": 177,
           "x": 91,
           "y": 2029,
@@ -3930,6 +3998,7 @@
           "layer": "",
           "locked": false,
           "name": "Ground02",
+          "persistentUuid": "2f036164-2bce-46f7-b38c-e524a63ad4f4",
           "width": 3862,
           "x": 3,
           "y": 1670,
@@ -3945,6 +4014,7 @@
           "layer": "",
           "locked": false,
           "name": "Spikes",
+          "persistentUuid": "b8f627c7-347b-4b72-963a-b2c3ae564dad",
           "width": 3857,
           "x": 1,
           "y": 2750,
@@ -3960,6 +4030,7 @@
           "layer": "",
           "locked": false,
           "name": "Ground02",
+          "persistentUuid": "99f519d1-5afb-4627-b9d9-1d982f9490fc",
           "width": 3862,
           "x": 138,
           "y": 2228,
@@ -3975,6 +4046,7 @@
           "layer": "",
           "locked": false,
           "name": "Ground02",
+          "persistentUuid": "491909fb-d428-48de-b4d4-20dedd19f0ef",
           "width": 3862,
           "x": 3,
           "y": 2803,
@@ -3990,6 +4062,7 @@
           "layer": "",
           "locked": false,
           "name": "Spikes",
+          "persistentUuid": "be023e66-85c8-47d4-86d9-5e5a5896eb69",
           "width": 3857,
           "x": 140,
           "y": 2181,
@@ -4005,9 +4078,10 @@
           "layer": "",
           "locked": false,
           "name": "DropPlatform",
+          "persistentUuid": "4207a8cc-c185-42a0-87cb-5ffe7fb7945e",
           "width": 320,
-          "x": 1730,
-          "y": 2430,
+          "x": 1723,
+          "y": 2640,
           "zOrder": 34,
           "numberProperties": [],
           "stringProperties": [],
@@ -4025,9 +4099,10 @@
           "layer": "",
           "locked": false,
           "name": "DropPlatform",
+          "persistentUuid": "039382cd-57d7-47a6-9131-a48fbd8ec022",
           "width": 320,
-          "x": 2430,
-          "y": 2511,
+          "x": 2445,
+          "y": 2622,
           "zOrder": 34,
           "numberProperties": [],
           "stringProperties": [],
@@ -4045,9 +4120,10 @@
           "layer": "",
           "locked": false,
           "name": "DropPlatform",
+          "persistentUuid": "1ae3bf69-1772-46f2-bdfd-95b51c756e9b",
           "width": 320,
-          "x": 2786,
-          "y": 2555,
+          "x": 2793,
+          "y": 2640,
           "zOrder": 34,
           "numberProperties": [],
           "stringProperties": [],
@@ -4065,9 +4141,10 @@
           "layer": "",
           "locked": false,
           "name": "DropPlatform",
+          "persistentUuid": "f5ae421d-f159-421b-8036-ab15783a0476",
           "width": 320,
-          "x": 3123,
-          "y": 2584,
+          "x": 3176,
+          "y": 2650,
           "zOrder": 34,
           "numberProperties": [],
           "stringProperties": [],
@@ -4085,6 +4162,7 @@
           "layer": "",
           "locked": false,
           "name": "CaveBG03",
+          "persistentUuid": "fba873b2-027c-4e60-83aa-df941a8bfc9f",
           "width": 4018,
           "x": -4821,
           "y": 388,
@@ -4100,6 +4178,7 @@
           "layer": "",
           "locked": false,
           "name": "CaveBg",
+          "persistentUuid": "cfefd63b-dc75-4221-b141-36950ff995e9",
           "width": 0,
           "x": 3,
           "y": -21,
@@ -4115,6 +4194,7 @@
           "layer": "",
           "locked": false,
           "name": "Wall01",
+          "persistentUuid": "4fdacf6e-4c53-4805-9dab-86d7f7876769",
           "width": 5745,
           "x": -6639,
           "y": 3981,
@@ -4130,6 +4210,7 @@
           "layer": "",
           "locked": false,
           "name": "LavaPlatform",
+          "persistentUuid": "303590ef-2baf-4ae4-9b45-25b026e387c1",
           "width": 0,
           "x": 1563,
           "y": 3767,
@@ -4150,6 +4231,7 @@
           "layer": "",
           "locked": false,
           "name": "LavaPlatform",
+          "persistentUuid": "3f568fff-6a32-43a9-a9ad-b54ef54a7393",
           "width": 0,
           "x": 3743,
           "y": 3760,
@@ -4170,6 +4252,7 @@
           "layer": "",
           "locked": false,
           "name": "Rock",
+          "persistentUuid": "b19c055d-6360-450e-beaf-5c19a3b4e890",
           "width": 399,
           "x": -3,
           "y": 3720,
@@ -4185,6 +4268,7 @@
           "layer": "",
           "locked": false,
           "name": "Wall01",
+          "persistentUuid": "b50378bf-d103-4698-96a3-a85afedf4ea6",
           "width": 7664,
           "x": -1078,
           "y": -2881,
@@ -4200,6 +4284,7 @@
           "layer": "",
           "locked": false,
           "name": "DropPlatform",
+          "persistentUuid": "a423f232-9d32-4d15-ad9d-14b56e5986dc",
           "width": 320,
           "x": 1580,
           "y": 2029,
@@ -4220,6 +4305,7 @@
           "layer": "",
           "locked": false,
           "name": "DropPlatform",
+          "persistentUuid": "86b4a785-d9b6-4e16-b978-3d2d33d81485",
           "width": 320,
           "x": 2291,
           "y": 2007,
@@ -4240,6 +4326,7 @@
           "layer": "",
           "locked": false,
           "name": "DropPlatform",
+          "persistentUuid": "ca78f04a-5aca-466b-8b03-f16ba4a85ba3",
           "width": 320,
           "x": 850,
           "y": 2035,
@@ -4260,6 +4347,7 @@
           "layer": "",
           "locked": false,
           "name": "DropPlatform",
+          "persistentUuid": "83ad5307-f576-4d3a-9920-bfffa50a07e9",
           "width": 320,
           "x": 492,
           "y": 2000,
@@ -4280,9 +4368,10 @@
           "layer": "",
           "locked": false,
           "name": "DropPlatform",
+          "persistentUuid": "bbba8c9e-fa38-477d-9f75-23c501f03907",
           "width": 320,
-          "x": 2082,
-          "y": 2457,
+          "x": 2085,
+          "y": 2610,
           "zOrder": 34,
           "numberProperties": [],
           "stringProperties": [],
@@ -4300,6 +4389,7 @@
           "layer": "",
           "locked": false,
           "name": "DropSpike",
+          "persistentUuid": "1d74b078-c8e9-4984-bf31-531b8787d80c",
           "width": 128,
           "x": 2019,
           "y": 716,
@@ -4320,6 +4410,7 @@
           "layer": "HUD",
           "locked": false,
           "name": "SheetInv",
+          "persistentUuid": "5a986281-0b32-4eea-bd75-037937d1568e",
           "width": 35,
           "x": 436,
           "y": 749,
@@ -4335,6 +4426,7 @@
           "layer": "HUD",
           "locked": false,
           "name": "PickAxeInv",
+          "persistentUuid": "8e864637-96c6-4e5a-8256-73a9dee802dd",
           "width": 39,
           "x": 494,
           "y": 753,
@@ -4350,6 +4442,7 @@
           "layer": "HUD",
           "locked": false,
           "name": "RopeInv",
+          "persistentUuid": "12404b37-a1eb-4831-bd8b-a69920209721",
           "width": 31,
           "x": 552,
           "y": 757,
@@ -4365,6 +4458,7 @@
           "layer": "HUD",
           "locked": false,
           "name": "ParachuteInv",
+          "persistentUuid": "63e059be-eff7-40ca-ba84-23a7164d89e0",
           "width": 36,
           "x": 607,
           "y": 752,
@@ -4380,6 +4474,7 @@
           "layer": "",
           "locked": false,
           "name": "Hero",
+          "persistentUuid": "2007977d-a49c-4491-8beb-d50dc97fb1ce",
           "width": 0,
           "x": 23,
           "y": 23,
@@ -4395,6 +4490,7 @@
           "layer": "",
           "locked": false,
           "name": "DropPlatform",
+          "persistentUuid": "6753a92e-6ca0-4ed6-b53e-e5fd7f1af329",
           "width": 177,
           "x": 283,
           "y": 1979,
@@ -4415,6 +4511,7 @@
           "layer": "",
           "locked": false,
           "name": "Checkpoint",
+          "persistentUuid": "e30b51f5-b592-44a6-8537-8cdd70493961",
           "width": 40,
           "x": -4778,
           "y": 3245,
@@ -4435,6 +4532,7 @@
           "layer": "",
           "locked": false,
           "name": "Checkpoint",
+          "persistentUuid": "8e63612f-b554-451b-af1f-72aaddf7d1cf",
           "width": 40,
           "x": 2044,
           "y": 83,
@@ -4460,6 +4558,7 @@
           "layer": "",
           "locked": false,
           "name": "Checkpoint",
+          "persistentUuid": "a7d443b8-efc2-48b9-9fca-bdf74bc1cd90",
           "width": 40,
           "x": 251,
           "y": 1333,
@@ -4485,6 +4584,7 @@
           "layer": "",
           "locked": false,
           "name": "Vine",
+          "persistentUuid": "0f2bf255-1ad4-4af6-acb1-a93271414c33",
           "width": 1722,
           "x": 3,
           "y": 2301,
@@ -4500,6 +4600,7 @@
           "layer": "",
           "locked": false,
           "name": "TooHigh",
+          "persistentUuid": "41245941-f676-4f04-a281-e9d0109a4f47",
           "width": 904,
           "x": 3085,
           "y": 869,
@@ -4520,6 +4621,7 @@
           "layer": "",
           "locked": false,
           "name": "TooHigh",
+          "persistentUuid": "cccf9a3d-88b9-4ae4-84dc-7a22f799b1b7",
           "width": 89,
           "x": 698,
           "y": 288,
@@ -4535,6 +4637,7 @@
           "layer": "",
           "locked": false,
           "name": "TooHigh",
+          "persistentUuid": "46acc06c-090a-4fa8-823d-c8dd32d19564",
           "width": 107,
           "x": 682,
           "y": 472,
@@ -4550,6 +4653,7 @@
           "layer": "",
           "locked": false,
           "name": "Dead",
+          "persistentUuid": "807c597e-fc78-43e4-9679-da9fa010e339",
           "width": 1154,
           "x": 2844,
           "y": 1379,
@@ -4565,6 +4669,7 @@
           "layer": "",
           "locked": false,
           "name": "Dead",
+          "persistentUuid": "0b29cf18-3243-45b0-b394-108275933f43",
           "width": 86,
           "x": 596,
           "y": 412,
@@ -4580,6 +4685,7 @@
           "layer": "",
           "locked": false,
           "name": "Dead",
+          "persistentUuid": "db4ee655-d827-44d2-a069-dc314ec78fdf",
           "width": 116,
           "x": 566,
           "y": 649,
@@ -4595,6 +4701,7 @@
           "layer": "",
           "locked": false,
           "name": "Wall01",
+          "persistentUuid": "55e2bfd6-e102-4515-82cb-72e6d4756cdc",
           "width": 882,
           "x": 5791,
           "y": -1404,
@@ -4610,6 +4717,7 @@
           "layer": "",
           "locked": false,
           "name": "ParachuteArea",
+          "persistentUuid": "801f7778-3cb6-45df-90ed-7e48fd2eca4a",
           "width": 145,
           "x": 3858,
           "y": 1755,
@@ -4625,6 +4733,7 @@
           "layer": "",
           "locked": false,
           "name": "CaveBG03",
+          "persistentUuid": "3b6d6dcc-e72a-4b77-bbdc-0994d2bca3e0",
           "width": 3990,
           "x": 1,
           "y": 698,
@@ -4640,6 +4749,7 @@
           "layer": "",
           "locked": false,
           "name": "Dead",
+          "persistentUuid": "e0a45287-3333-46af-9aab-fe4394b3de7d",
           "width": 1154,
           "x": 249,
           "y": 1386,
@@ -4655,6 +4765,7 @@
           "layer": "",
           "locked": false,
           "name": "TooHigh",
+          "persistentUuid": "2cc31778-8551-46d9-aabb-6140fd2f5733",
           "width": 107,
           "x": 690,
           "y": 701,
@@ -4675,6 +4786,7 @@
           "layer": "",
           "locked": false,
           "name": "Ground02",
+          "persistentUuid": "ee86e9f6-8e8c-44a7-8cce-1f7885caf761",
           "width": 697,
           "x": -7,
           "y": 653,
@@ -4690,6 +4802,7 @@
           "layer": "",
           "locked": false,
           "name": "Ground02",
+          "persistentUuid": "4df904b0-fb98-44af-9867-2edaf19640db",
           "width": 604,
           "x": 3395,
           "y": 228,
@@ -4705,6 +4818,7 @@
           "layer": "",
           "locked": false,
           "name": "DropSpikeActivator",
+          "persistentUuid": "c7a88d52-cff7-4dec-89f0-0d3d0ed9956a",
           "width": 98,
           "x": 1766,
           "y": 716,
@@ -4725,6 +4839,7 @@
           "layer": "",
           "locked": false,
           "name": "DropSpikeActivator",
+          "persistentUuid": "f73a9cb9-b127-4eb1-9ce1-513356218a3b",
           "width": 98,
           "x": 3333,
           "y": 710,
@@ -4745,6 +4860,7 @@
           "layer": "",
           "locked": false,
           "name": "DropSpikeActivator",
+          "persistentUuid": "c1d04e7b-7b80-4627-983e-ec7c55ab365a",
           "width": 98,
           "x": 2808,
           "y": 714,
@@ -4765,6 +4881,7 @@
           "layer": "",
           "locked": false,
           "name": "DropSpikeActivator",
+          "persistentUuid": "3a7910aa-e8a6-4f91-b7aa-9202b20b6d37",
           "width": 98,
           "x": 2239,
           "y": 711,
@@ -4785,6 +4902,7 @@
           "layer": "",
           "locked": false,
           "name": "Vine",
+          "persistentUuid": "46614110-9091-48ee-8164-66c68cd4ac98",
           "width": 512,
           "x": 2147,
           "y": 20,
@@ -4800,6 +4918,7 @@
           "layer": "",
           "locked": false,
           "name": "steam",
+          "persistentUuid": "350ff45a-77dd-46dc-88d9-d26145bca696",
           "width": 43,
           "x": 343,
           "y": 1600,
@@ -4815,6 +4934,7 @@
           "layer": "",
           "locked": false,
           "name": "steam",
+          "persistentUuid": "c5339846-e06a-4097-8bea-50dbe0c5bcba",
           "width": 43,
           "x": 1043,
           "y": 1280,
@@ -4830,6 +4950,7 @@
           "layer": "",
           "locked": false,
           "name": "steam",
+          "persistentUuid": "02380154-94b8-4646-8da2-7fee16569f55",
           "width": 43,
           "x": 714,
           "y": 1286,
@@ -4845,6 +4966,7 @@
           "layer": "",
           "locked": false,
           "name": "steam",
+          "persistentUuid": "9b54b17e-e474-4d9c-9868-6498780363cd",
           "width": 43,
           "x": 416,
           "y": 1290,
@@ -4860,6 +4982,7 @@
           "layer": "",
           "locked": false,
           "name": "CaveBG04",
+          "persistentUuid": "385570cf-883b-45de-9768-ade83b852b52",
           "width": 3998,
           "x": -153,
           "y": 1415,
@@ -4875,6 +4998,7 @@
           "layer": "",
           "locked": false,
           "name": "steam",
+          "persistentUuid": "69c5c7e5-0830-4563-95be-820383ee8b77",
           "width": 43,
           "x": 993,
           "y": 1602,
@@ -4890,6 +5014,7 @@
           "layer": "",
           "locked": false,
           "name": "steam",
+          "persistentUuid": "d0fc2c9c-3acf-4042-8d3d-ce74e52d083b",
           "width": 43,
           "x": 3064,
           "y": 1595,
@@ -4905,6 +5030,7 @@
           "layer": "",
           "locked": false,
           "name": "steam",
+          "persistentUuid": "cd05be4f-8f53-4c06-b642-0e8293511589",
           "width": 43,
           "x": 1359,
           "y": 1599,
@@ -4920,6 +5046,7 @@
           "layer": "",
           "locked": false,
           "name": "steam",
+          "persistentUuid": "b0a6e13e-05e4-4b3c-91e4-515ed39ad432",
           "width": 43,
           "x": 1818,
           "y": 1598,
@@ -4935,6 +5062,7 @@
           "layer": "",
           "locked": false,
           "name": "steam",
+          "persistentUuid": "4808637c-eed7-44d8-88a2-37575727afc4",
           "width": 43,
           "x": 2287,
           "y": 1599,
@@ -4950,6 +5078,7 @@
           "layer": "",
           "locked": false,
           "name": "ParachuteArea",
+          "persistentUuid": "d4172dbe-2641-4478-8c71-676a5f34f4e4",
           "width": 176,
           "x": 3424,
           "y": 347,
@@ -4965,6 +5094,7 @@
           "layer": "",
           "locked": false,
           "name": "ParachuteArea",
+          "persistentUuid": "0d7a663b-9b61-4fda-bfa2-683965c63cdf",
           "width": 683,
           "x": 3312,
           "y": 2889,
@@ -4980,6 +5110,7 @@
           "layer": "",
           "locked": false,
           "name": "JumpThrough",
+          "persistentUuid": "e7b5212d-1fce-4d11-b676-174c6f7a4077",
           "width": 128,
           "x": 3284,
           "y": 228,
@@ -4995,6 +5126,7 @@
           "layer": "",
           "locked": false,
           "name": "ActivateJumpThrough",
+          "persistentUuid": "e3ef4be8-a7c7-4dd5-beb7-27207a7c6113",
           "width": 0,
           "x": 3326,
           "y": 272,
@@ -5010,6 +5142,7 @@
           "layer": "",
           "locked": false,
           "name": "JumpThrough",
+          "persistentUuid": "60c1b27e-1912-4bd1-93f6-33f5c92e7d7b",
           "width": 128,
           "x": 2729,
           "y": 305,
@@ -5025,6 +5158,7 @@
           "layer": "",
           "locked": false,
           "name": "ActivateJumpThrough",
+          "persistentUuid": "91f42190-9e7d-45e2-afcf-a5f61aac2c98",
           "width": 0,
           "x": 2760,
           "y": 347,
@@ -5040,6 +5174,7 @@
           "layer": "",
           "locked": false,
           "name": "platformMoveStop",
+          "persistentUuid": "0c8fb409-4c80-4b21-a7bb-540fd8280c1f",
           "width": 18,
           "x": 373,
           "y": 3704,
@@ -5055,6 +5190,7 @@
           "layer": "",
           "locked": false,
           "name": "platformMoveStop",
+          "persistentUuid": "c832ffcb-02a9-4c9b-89f0-a985d5390fd7",
           "width": 57,
           "x": 1825,
           "y": 3733,
@@ -5070,6 +5206,7 @@
           "layer": "HUD",
           "locked": false,
           "name": "goldInv",
+          "persistentUuid": "c142bd18-ee85-4c14-9011-4e02a0a3c80e",
           "width": 41,
           "x": 670,
           "y": 752,
@@ -5085,6 +5222,7 @@
           "layer": "",
           "locked": false,
           "name": "flame",
+          "persistentUuid": "d30384b6-b4c1-4f2b-bfba-72ce5810cce8",
           "width": 0,
           "x": 775,
           "y": 3642,
@@ -5100,6 +5238,7 @@
           "layer": "",
           "locked": false,
           "name": "flame",
+          "persistentUuid": "39d12f8b-cabe-4fdc-8ee6-382512d4cdec",
           "width": 0,
           "x": 3291,
           "y": 3533,
@@ -5115,6 +5254,7 @@
           "layer": "",
           "locked": false,
           "name": "flame",
+          "persistentUuid": "3845bc54-bd7f-4a01-a3d9-9159f099603d",
           "width": 0,
           "x": 2846,
           "y": 3606,
@@ -5130,6 +5270,7 @@
           "layer": "",
           "locked": false,
           "name": "flame",
+          "persistentUuid": "bf3c2f91-c2ad-42dd-881b-14489c34e6c4",
           "width": 0,
           "x": 2402,
           "y": 3716,
@@ -5145,6 +5286,7 @@
           "layer": "",
           "locked": false,
           "name": "flame",
+          "persistentUuid": "33e7eb76-7f1d-4318-93f9-996a75dae29a",
           "width": 0,
           "x": 2073,
           "y": 3551,
@@ -5160,6 +5302,7 @@
           "layer": "",
           "locked": false,
           "name": "flame",
+          "persistentUuid": "128a1fc9-513b-4f93-9499-77c75785b923",
           "width": 0,
           "x": 1156,
           "y": 3709,
@@ -5175,6 +5318,7 @@
           "layer": "",
           "locked": false,
           "name": "ChangeFlameDirection",
+          "persistentUuid": "2b9bdee9-5c45-419c-aef1-25d280242236",
           "width": 3032,
           "x": 500,
           "y": 3326,
@@ -5190,6 +5334,7 @@
           "layer": "",
           "locked": false,
           "name": "ChangeFlameDirectionDown",
+          "persistentUuid": "532d0e87-a1d8-4d6e-9906-e589b958ef65",
           "width": 3537,
           "x": 460,
           "y": 3923,
@@ -5205,6 +5350,7 @@
           "layer": "",
           "locked": false,
           "name": "BreakableWall",
+          "persistentUuid": "42f6531c-3e18-49ac-9fda-47092f661e0a",
           "width": 19,
           "x": 842,
           "y": 583,
@@ -5220,6 +5366,7 @@
           "layer": "",
           "locked": false,
           "name": "BreakableWall",
+          "persistentUuid": "99251015-c0ee-41ae-a3cc-faec341bc580",
           "width": 19,
           "x": 788,
           "y": 379,
@@ -5235,6 +5382,7 @@
           "layer": "",
           "locked": false,
           "name": "Wall01",
+          "persistentUuid": "75caaef6-f3fe-4097-88d6-6a75f64f6819",
           "width": 851,
           "x": -848,
           "y": -159,
@@ -5250,6 +5398,7 @@
           "layer": "",
           "locked": false,
           "name": "CaveBG03",
+          "persistentUuid": "dca2bdf6-8369-4d8b-a068-a19a255552c9",
           "width": 4477,
           "x": -465,
           "y": 2828,
@@ -5265,6 +5414,7 @@
           "layer": "",
           "locked": false,
           "name": "BreakableWall",
+          "persistentUuid": "2dd7fe5a-9885-4102-89fc-f9ce484f0b74",
           "width": 19,
           "x": 658,
           "y": 582,
@@ -5280,6 +5430,7 @@
           "layer": "",
           "locked": false,
           "name": "BreakableWall",
+          "persistentUuid": "ca33af43-b9f2-4070-9055-b32d4cb5ef30",
           "width": 37,
           "x": -72,
           "y": 3592,
@@ -5295,6 +5446,7 @@
           "layer": "",
           "locked": false,
           "name": "BreakableWall",
+          "persistentUuid": "c789511c-2346-4b0b-bd96-602a81a89523",
           "width": 37,
           "x": -581,
           "y": 3594,
@@ -5310,6 +5462,7 @@
           "layer": "",
           "locked": false,
           "name": "Wall01",
+          "persistentUuid": "ed177c57-e3bc-43cb-9701-1aa5be3642f1",
           "width": 1189,
           "x": -6045,
           "y": 374,
@@ -5325,6 +5478,7 @@
           "layer": "",
           "locked": false,
           "name": "Wall01",
+          "persistentUuid": "1411884d-4c86-41c1-9002-7fef115a78a3",
           "width": 1710,
           "x": 4129,
           "y": 4481,
@@ -5340,6 +5494,7 @@
           "layer": "",
           "locked": false,
           "name": "Lava",
+          "persistentUuid": "67b5a26f-319c-4f44-b71f-9b1ccadade55",
           "width": 3975,
           "x": 31,
           "y": 3856,
@@ -5355,6 +5510,7 @@
           "layer": "",
           "locked": false,
           "name": "Ground02",
+          "persistentUuid": "e8698b74-866d-4f43-8cb7-8d1f545ad8d2",
           "width": 3546,
           "x": -4577,
           "y": 3486,
@@ -5370,6 +5526,7 @@
           "layer": "",
           "locked": false,
           "name": "ActivateLavaPlatform",
+          "persistentUuid": "bda7d7a0-7357-4141-9368-001efa86a32d",
           "width": 252,
           "x": 1565,
           "y": 3698,
@@ -5390,6 +5547,7 @@
           "layer": "",
           "locked": false,
           "name": "ActivateLavaPlatform",
+          "persistentUuid": "84f36bc1-9afc-448a-b979-5f90da2ca329",
           "width": 252,
           "x": 3727,
           "y": 3681,
@@ -5410,6 +5568,7 @@
           "layer": "",
           "locked": false,
           "name": "Ground02",
+          "persistentUuid": "74411a06-63f6-46f4-b330-9b888ed36fd9",
           "width": 170,
           "x": 11,
           "y": 3726,
@@ -5425,6 +5584,7 @@
           "layer": "",
           "locked": false,
           "name": "Lava",
+          "persistentUuid": "656968c3-c57c-4a21-989e-28037363c293",
           "width": 3982,
           "x": -4857,
           "y": 3913,
@@ -5440,6 +5600,7 @@
           "layer": "",
           "locked": false,
           "name": "Vine",
+          "persistentUuid": "d41640b3-7d6f-4644-b067-ad70754bfe0d",
           "width": 127,
           "x": -4595,
           "y": 3625,
@@ -5455,6 +5616,7 @@
           "layer": "",
           "locked": false,
           "name": "Vine",
+          "persistentUuid": "9d37ed77-5692-41fa-a6f0-e7b68fe168ad",
           "width": 335,
           "x": -1327,
           "y": 3620,
@@ -5470,6 +5632,7 @@
           "layer": "",
           "locked": false,
           "name": "Vine",
+          "persistentUuid": "cfe01eb2-f862-47fc-8cd6-4fe4b7158602",
           "width": 335,
           "x": -2141,
           "y": 3621,
@@ -5485,6 +5648,7 @@
           "layer": "",
           "locked": false,
           "name": "Vine",
+          "persistentUuid": "eb6cee92-151c-43c9-8331-9dff206267a5",
           "width": 335,
           "x": -1732,
           "y": 3625,
@@ -5500,6 +5664,7 @@
           "layer": "",
           "locked": false,
           "name": "Vine",
+          "persistentUuid": "6107fea3-c042-45e5-9d0e-08dcebd6ffbb",
           "width": 335,
           "x": -3275,
           "y": 3622,
@@ -5515,6 +5680,7 @@
           "layer": "",
           "locked": false,
           "name": "Vine",
+          "persistentUuid": "babe176c-ec0e-404d-8c6d-1a929145441d",
           "width": 335,
           "x": -2525,
           "y": 3610,
@@ -5530,6 +5696,7 @@
           "layer": "",
           "locked": false,
           "name": "Vine",
+          "persistentUuid": "695aa160-85ee-4f4b-9b64-ce86ae5a427d",
           "width": 335,
           "x": -4035,
           "y": 3619,
@@ -5545,6 +5712,7 @@
           "layer": "",
           "locked": false,
           "name": "Checkpoint",
+          "persistentUuid": "365ec357-79aa-44b3-a1cf-cbec1bca89fe",
           "width": 40,
           "x": 13,
           "y": 11,
@@ -5560,6 +5728,7 @@
           "layer": "",
           "locked": false,
           "name": "Vine",
+          "persistentUuid": "312a0e87-91f1-4d20-9fc4-459db9fefd44",
           "width": 335,
           "x": -2881,
           "y": 3625,
@@ -5575,6 +5744,7 @@
           "layer": "",
           "locked": false,
           "name": "Vine",
+          "persistentUuid": "84f5ae87-799a-45a3-8891-96273755f698",
           "width": 335,
           "x": -3669,
           "y": 3622,
@@ -5590,6 +5760,7 @@
           "layer": "",
           "locked": false,
           "name": "Vine",
+          "persistentUuid": "5ee11b0b-cb28-461b-aaad-a12efcb42755",
           "width": 335,
           "x": -4437,
           "y": 3616,
@@ -5605,6 +5776,7 @@
           "layer": "",
           "locked": false,
           "name": "Ground02",
+          "persistentUuid": "c01ba163-9227-4a37-be74-bbba554aab48",
           "width": 265,
           "x": -4861,
           "y": 3783,
@@ -5620,6 +5792,7 @@
           "layer": "",
           "locked": false,
           "name": "ground01",
+          "persistentUuid": "c8d08f85-e148-4f96-95d0-4b7d1ac9a079",
           "width": 3730,
           "x": -4574,
           "y": 3311,
@@ -5635,6 +5808,7 @@
           "layer": "",
           "locked": false,
           "name": "Ladder",
+          "persistentUuid": "4cf6db89-e6f3-4d50-9eca-62aad3114a44",
           "width": 64,
           "x": -4854,
           "y": 3701,
@@ -5650,6 +5824,7 @@
           "layer": "",
           "locked": false,
           "name": "Ladder",
+          "persistentUuid": "d014d7b9-0b21-4479-947c-151445abafc2",
           "width": 64,
           "x": -914,
           "y": 3231,
@@ -5665,6 +5840,7 @@
           "layer": "",
           "locked": false,
           "name": "Ladder",
+          "persistentUuid": "9f568d9e-27ef-4951-9b6b-c871d8ef9ab2",
           "width": 64,
           "x": -4854,
           "y": 3390,
@@ -5680,6 +5856,7 @@
           "layer": "",
           "locked": false,
           "name": "Ladder",
+          "persistentUuid": "566ebd31-b0f1-48b4-9ead-45acb7a3e342",
           "width": 64,
           "x": -4854,
           "y": 3467,
@@ -5695,6 +5872,7 @@
           "layer": "",
           "locked": false,
           "name": "Ladder",
+          "persistentUuid": "a2ca1395-dc06-4aad-8fd5-6068169198c2",
           "width": 64,
           "x": -4855,
           "y": 3544,
@@ -5710,6 +5888,7 @@
           "layer": "",
           "locked": false,
           "name": "Ladder",
+          "persistentUuid": "a00c4f76-a9bd-4dd2-b7bd-331154fa283b",
           "width": 64,
           "x": -4854,
           "y": 3622,
@@ -5725,6 +5904,7 @@
           "layer": "",
           "locked": false,
           "name": "ground01",
+          "persistentUuid": "cf97ec7c-1e1d-430c-87cd-cce99458e618",
           "width": 3946,
           "x": -4861,
           "y": 2915,
@@ -5740,6 +5920,7 @@
           "layer": "",
           "locked": false,
           "name": "ground01",
+          "persistentUuid": "e06b89f4-78cd-492f-b1de-d96e0b399ee5",
           "width": 216,
           "x": -4790,
           "y": 3310,
@@ -5755,6 +5936,7 @@
           "layer": "",
           "locked": false,
           "name": "Checkpoint",
+          "persistentUuid": "fd2dbf76-d311-449e-b617-281aec685f07",
           "width": 40,
           "x": 112,
           "y": 3663,
@@ -5775,6 +5957,7 @@
           "layer": "",
           "locked": false,
           "name": "ActivateJumpThrough",
+          "persistentUuid": "3f4a0401-9369-4636-a41d-fef301826f78",
           "width": 0,
           "x": -913,
           "y": 3001,
@@ -5790,6 +5973,7 @@
           "layer": "",
           "locked": false,
           "name": "JumpThrough",
+          "persistentUuid": "8c027a5d-d6fe-402e-bb36-a3cac930c62b",
           "width": 69,
           "x": -916,
           "y": 2914,
@@ -5805,6 +5989,7 @@
           "layer": "",
           "locked": false,
           "name": "WallWithHole",
+          "persistentUuid": "3f51e796-706d-4513-acbf-58d3728e6d33",
           "width": 65,
           "x": -847,
           "y": 3237,
@@ -5820,6 +6005,7 @@
           "layer": "",
           "locked": false,
           "name": "ArrowSpear",
+          "persistentUuid": "a36fc04c-7052-44d3-b493-75a7d2ebb6f8",
           "width": 199,
           "x": -5644,
           "y": 4831,
@@ -5835,6 +6021,7 @@
           "layer": "",
           "locked": false,
           "name": "ObjectGenerator",
+          "persistentUuid": "25f2e003-d0d3-49bb-a3d2-ad495907a366",
           "width": 81,
           "x": -2590,
           "y": 1828,
@@ -5855,6 +6042,7 @@
           "layer": "",
           "locked": false,
           "name": "ObjectGenerator",
+          "persistentUuid": "cf7af97b-171d-40a0-8bd5-6fbb64cc92c3",
           "width": 64,
           "x": -4571,
           "y": 3210,
@@ -5875,6 +6063,7 @@
           "layer": "",
           "locked": false,
           "name": "ObjectGenerator",
+          "persistentUuid": "65bf97b0-359e-4fa0-88f2-82ac8c744c3c",
           "width": 64,
           "x": -4270,
           "y": 3213,
@@ -5895,6 +6084,7 @@
           "layer": "",
           "locked": false,
           "name": "ObjectGenerator",
+          "persistentUuid": "322868f8-1dab-4e38-90a7-e381983bdd6a",
           "width": 64,
           "x": -3973,
           "y": 3209,
@@ -5915,6 +6105,7 @@
           "layer": "",
           "locked": false,
           "name": "ObjectGenerator",
+          "persistentUuid": "09bd04fe-728e-4cbf-89fc-9270ebe122c3",
           "width": 64,
           "x": -3539,
           "y": 3206,
@@ -5935,6 +6126,7 @@
           "layer": "",
           "locked": false,
           "name": "ObjectGenerator",
+          "persistentUuid": "b024de89-54c6-4df1-8429-ff3e0fd1094c",
           "width": 64,
           "x": -3047,
           "y": 3208,
@@ -5955,6 +6147,7 @@
           "layer": "",
           "locked": false,
           "name": "ObjectGenerator",
+          "persistentUuid": "d872283c-86f8-4830-8ed7-d3b8e06d3359",
           "width": 64,
           "x": -2784,
           "y": 3208,
@@ -5975,6 +6168,7 @@
           "layer": "",
           "locked": false,
           "name": "ObjectDestroyer",
+          "persistentUuid": "662f295d-4a0d-4397-bd84-dc434603494e",
           "width": 3898,
           "x": -4858,
           "y": 2845,
@@ -5990,6 +6184,7 @@
           "layer": "",
           "locked": false,
           "name": "Ladder",
+          "persistentUuid": "96668e64-8e8e-493a-85b0-a53e81790609",
           "width": 64,
           "x": -4854,
           "y": 3308,
@@ -6005,6 +6200,7 @@
           "layer": "",
           "locked": false,
           "name": "Ladder",
+          "persistentUuid": "9fd5c22f-1b54-45ac-874a-d8012e82b141",
           "width": 64,
           "x": -915,
           "y": 2993,
@@ -6020,6 +6216,7 @@
           "layer": "",
           "locked": false,
           "name": "Ladder",
+          "persistentUuid": "0707f964-80ad-4a95-98a6-34202ad9c4a2",
           "width": 64,
           "x": -915,
           "y": 3073,
@@ -6035,6 +6232,7 @@
           "layer": "",
           "locked": false,
           "name": "Ladder",
+          "persistentUuid": "3a7ae141-8585-483b-a337-5975ac91c624",
           "width": 64,
           "x": -915,
           "y": 3151,
@@ -6050,6 +6248,7 @@
           "layer": "",
           "locked": false,
           "name": "ActivateJumpThrough",
+          "persistentUuid": "cae210e1-733d-4e92-be17-8562c11c2287",
           "width": 0,
           "x": -4854,
           "y": 3380,
@@ -6065,6 +6264,7 @@
           "layer": "",
           "locked": false,
           "name": "JumpThrough",
+          "persistentUuid": "99538e6d-5aa8-4353-b078-5821087121f4",
           "width": 69,
           "x": -4858,
           "y": 3311,
@@ -6080,6 +6280,7 @@
           "layer": "",
           "locked": false,
           "name": "CaveBG03",
+          "persistentUuid": "f700b639-1044-4ead-a117-7e9a4a649993",
           "width": 4451,
           "x": -4861,
           "y": 2912,
@@ -6095,6 +6296,7 @@
           "layer": "",
           "locked": false,
           "name": "Spikes",
+          "persistentUuid": "3b948c5f-15bd-476f-a81b-13757cd53b97",
           "width": 3839,
           "x": -4793,
           "y": 2888,
@@ -6110,6 +6312,7 @@
           "layer": "",
           "locked": false,
           "name": "Weed",
+          "persistentUuid": "d6fe03f4-42da-434f-974e-5853af9dcb7d",
           "width": 3921,
           "x": -4859,
           "y": 2944,
@@ -6125,6 +6328,7 @@
           "layer": "",
           "locked": false,
           "name": "Vine",
+          "persistentUuid": "260175b0-c11a-4819-a2fa-eece95b679fb",
           "width": 4007,
           "x": -4854,
           "y": 1838,
@@ -6140,6 +6344,7 @@
           "layer": "",
           "locked": false,
           "name": "Wall01",
+          "persistentUuid": "f444d16f-a613-49a5-a3d7-856707cdba15",
           "width": 3892,
           "x": -4734,
           "y": 1773,
@@ -6155,6 +6360,7 @@
           "layer": "",
           "locked": false,
           "name": "Vine",
+          "persistentUuid": "beb72983-7faa-4680-853c-3f913e09ff2a",
           "width": 121,
           "x": -4855,
           "y": 1654,
@@ -6170,6 +6376,7 @@
           "layer": "",
           "locked": false,
           "name": "WallWithHole",
+          "persistentUuid": "121cb40c-a555-49af-82f3-c905d10f3387",
           "width": 61,
           "x": -1914,
           "y": 1761,
@@ -6190,6 +6397,7 @@
           "layer": "",
           "locked": false,
           "name": "WallWithHole",
+          "persistentUuid": "4247ed9f-0691-44a8-8bc8-3310984a06df",
           "width": 58,
           "x": -4440,
           "y": 1762,
@@ -6210,6 +6418,7 @@
           "layer": "",
           "locked": false,
           "name": "WallWithHole",
+          "persistentUuid": "6673ce03-9371-451b-815b-38d9f089d093",
           "width": 58,
           "x": -4175,
           "y": 1764,
@@ -6230,6 +6439,7 @@
           "layer": "",
           "locked": false,
           "name": "WallWithHole",
+          "persistentUuid": "96c0d634-4b0b-4645-b28f-4a9594c9e055",
           "width": 61,
           "x": -3460,
           "y": 1767,
@@ -6250,6 +6460,7 @@
           "layer": "",
           "locked": false,
           "name": "WallWithHole",
+          "persistentUuid": "240fb74d-8096-425c-bf29-e573e2823659",
           "width": 61,
           "x": -3243,
           "y": 1765,
@@ -6270,6 +6481,7 @@
           "layer": "",
           "locked": false,
           "name": "WallWithHole",
+          "persistentUuid": "ca98b5c6-df5d-4626-8d9c-6198028e7a7e",
           "width": 61,
           "x": -2918,
           "y": 1758,
@@ -6290,6 +6502,7 @@
           "layer": "",
           "locked": false,
           "name": "WallWithHole",
+          "persistentUuid": "06e31c0f-7513-4f4e-99d3-5cf282ba3dcb",
           "width": 61,
           "x": -2688,
           "y": 1763,
@@ -6310,6 +6523,7 @@
           "layer": "",
           "locked": false,
           "name": "WallWithHole",
+          "persistentUuid": "b1d9a8df-c6a6-46eb-89c4-76a2fd2930d5",
           "width": 61,
           "x": -2048,
           "y": 1759,
@@ -6330,6 +6544,7 @@
           "layer": "",
           "locked": false,
           "name": "ObjectGenerator",
+          "persistentUuid": "7d412723-dde5-4e6d-a0fa-76c365c3358c",
           "width": 64,
           "x": -1853,
           "y": 3206,
@@ -6350,6 +6565,7 @@
           "layer": "",
           "locked": false,
           "name": "ObjectGenerator",
+          "persistentUuid": "498a691d-03c6-489f-8610-e83d1ca8f489",
           "width": 82,
           "x": -3986,
           "y": 2018,
@@ -6370,6 +6586,7 @@
           "layer": "",
           "locked": false,
           "name": "ObjectGenerator",
+          "persistentUuid": "c6543972-f578-425e-9b83-ff89db6c1ffe",
           "width": 47,
           "x": -1965,
           "y": 1850,
@@ -6390,6 +6607,7 @@
           "layer": "",
           "locked": false,
           "name": "ObjectGenerator",
+          "persistentUuid": "89fcf186-24bf-4e42-9867-3cff9f62c303",
           "width": 64,
           "x": -1773,
           "y": 1841,
@@ -6410,6 +6628,7 @@
           "layer": "",
           "locked": false,
           "name": "ObjectGenerator",
+          "persistentUuid": "62e60c22-1ece-4946-8519-e2d14c31b5c7",
           "width": 64,
           "x": -2825,
           "y": 2006,
@@ -6430,6 +6649,7 @@
           "layer": "",
           "locked": false,
           "name": "ObjectGenerator",
+          "persistentUuid": "e88c0606-44d4-4546-b486-e275b691d8c2",
           "width": 64,
           "x": -3335,
           "y": 1852,
@@ -6450,6 +6670,7 @@
           "layer": "",
           "locked": false,
           "name": "ObjectGenerator",
+          "persistentUuid": "fbed9213-62b0-40d4-a9ef-28883aa7ab65",
           "width": 64,
           "x": -4354,
           "y": 1846,
@@ -6470,6 +6691,7 @@
           "layer": "",
           "locked": false,
           "name": "ObjectGenerator",
+          "persistentUuid": "7eb2c946-d055-4d8a-a4fb-aabbb8aa0378",
           "width": 64,
           "x": -3159,
           "y": 1854,
@@ -6490,9 +6712,10 @@
           "layer": "",
           "locked": false,
           "name": "Spikes",
+          "persistentUuid": "d7e13c49-ed07-4642-ab2e-6f6ca2a09355",
           "width": 52,
-          "x": -3012,
-          "y": 1750,
+          "x": -3015,
+          "y": 1760,
           "zOrder": 144,
           "numberProperties": [],
           "stringProperties": [],
@@ -6505,6 +6728,7 @@
           "layer": "",
           "locked": false,
           "name": "ObjectDestroyer",
+          "persistentUuid": "b655e33b-a5ac-474b-9ead-c29c96ff1d4b",
           "width": 64,
           "x": -4922,
           "y": 3066,
@@ -6520,6 +6744,7 @@
           "layer": "",
           "locked": false,
           "name": "CaveBG03",
+          "persistentUuid": "fbb92179-2b56-4359-8e99-0b7383c3ce8c",
           "width": 4007,
           "x": -4856,
           "y": 1837,
@@ -6535,6 +6760,7 @@
           "layer": "",
           "locked": false,
           "name": "Checkpoint",
+          "persistentUuid": "cf93792b-4432-459c-84b3-a282458a4b92",
           "width": 40,
           "x": 3397,
           "y": 163,
@@ -6560,6 +6786,7 @@
           "layer": "",
           "locked": false,
           "name": "Ground02",
+          "persistentUuid": "2c20f6b2-1555-497f-b49c-56e49fd8f35b",
           "width": 129,
           "x": 3871,
           "y": 3576,
@@ -6575,6 +6802,7 @@
           "layer": "",
           "locked": false,
           "name": "Checkpoint",
+          "persistentUuid": "dfd54e68-bdde-4fc1-892a-8a0a202285b3",
           "width": 128,
           "x": 3868,
           "y": 3510,
@@ -6600,9 +6828,10 @@
           "layer": "",
           "locked": false,
           "name": "Spikes",
+          "persistentUuid": "fada350c-6dce-4b2e-a82e-6d886797f730",
           "width": 50,
-          "x": -4507,
-          "y": 1745,
+          "x": -4510,
+          "y": 1755,
           "zOrder": 144,
           "numberProperties": [],
           "stringProperties": [],
@@ -6615,9 +6844,10 @@
           "layer": "",
           "locked": false,
           "name": "Spikes",
+          "persistentUuid": "4bc5b822-d306-484c-a9c8-4ee3c37bd31d",
           "width": 50,
-          "x": -3829,
-          "y": 1748,
+          "x": -3832,
+          "y": 1758,
           "zOrder": 144,
           "numberProperties": [],
           "stringProperties": [],
@@ -6630,9 +6860,10 @@
           "layer": "",
           "locked": false,
           "name": "Spikes",
+          "persistentUuid": "b2ab584b-4e0e-4d34-a167-71b4c0164f6d",
           "width": 43,
-          "x": -1769,
-          "y": 1748,
+          "x": -1772,
+          "y": 1758,
           "zOrder": 144,
           "numberProperties": [],
           "stringProperties": [],
@@ -6645,9 +6876,10 @@
           "layer": "",
           "locked": false,
           "name": "Spikes",
+          "persistentUuid": "50b6fef1-c58b-41a0-a553-4a8334e5dbce",
           "width": 45,
-          "x": -3291,
-          "y": 1751,
+          "x": -3294,
+          "y": 1761,
           "zOrder": 144,
           "numberProperties": [],
           "stringProperties": [],
@@ -6660,9 +6892,10 @@
           "layer": "",
           "locked": false,
           "name": "Spikes",
+          "persistentUuid": "9466a293-6b48-46b6-94fb-817ea298aee7",
           "width": 43,
-          "x": -2626,
-          "y": 1750,
+          "x": -2629,
+          "y": 1760,
           "zOrder": 144,
           "numberProperties": [],
           "stringProperties": [],
@@ -6675,9 +6908,10 @@
           "layer": "",
           "locked": false,
           "name": "Spikes",
+          "persistentUuid": "f95897c1-b7b8-4989-a232-4e2751097c8a",
           "width": 48,
-          "x": -2049,
-          "y": 1749,
+          "x": -2052,
+          "y": 1759,
           "zOrder": 144,
           "numberProperties": [],
           "stringProperties": [],
@@ -6690,6 +6924,7 @@
           "layer": "",
           "locked": false,
           "name": "Checkpoint",
+          "persistentUuid": "75891446-926c-46d7-aaad-9a630c07777f",
           "width": 40,
           "x": -4651,
           "y": 1512,
@@ -6710,9 +6945,10 @@
           "layer": "",
           "locked": false,
           "name": "Spikes",
+          "persistentUuid": "29725fff-5065-480b-b41e-800821c5ad6b",
           "width": 43,
-          "x": -2399,
-          "y": 1748,
+          "x": -2401,
+          "y": 1761,
           "zOrder": 144,
           "numberProperties": [],
           "stringProperties": [],
@@ -6725,9 +6961,10 @@
           "layer": "",
           "locked": false,
           "name": "Spikes",
+          "persistentUuid": "ded34910-7286-4386-92b4-a890437a032d",
           "width": 45,
-          "x": -3501,
-          "y": 1749,
+          "x": -3504,
+          "y": 1759,
           "zOrder": 144,
           "numberProperties": [],
           "stringProperties": [],
@@ -6740,6 +6977,7 @@
           "layer": "",
           "locked": false,
           "name": "Wall01",
+          "persistentUuid": "166ba9c0-33d6-4df3-8cdf-f6a5feb22246",
           "width": 32,
           "x": -1846,
           "y": 1796,
@@ -6755,6 +6993,7 @@
           "layer": "",
           "locked": false,
           "name": "Wall01",
+          "persistentUuid": "f04175ff-99f7-45e3-a924-d61315ac6238",
           "width": 32,
           "x": -2626,
           "y": 1795,
@@ -6770,6 +7009,7 @@
           "layer": "",
           "locked": false,
           "name": "Wall01",
+          "persistentUuid": "3b280ea2-0fda-4a0f-81f0-ea79eccf7539",
           "width": 32,
           "x": -1990,
           "y": 1796,
@@ -6785,6 +7025,7 @@
           "layer": "",
           "locked": false,
           "name": "Wall01",
+          "persistentUuid": "1689875f-7b12-431b-ae1f-2286773ec683",
           "width": 32,
           "x": -699.814,
           "y": 3228.63,
@@ -6800,6 +7041,7 @@
           "layer": "",
           "locked": false,
           "name": "Wall01",
+          "persistentUuid": "c6ab251c-2584-48c5-89bc-3a24aa3d4a99",
           "width": 32,
           "x": -793,
           "y": 3263,
@@ -6815,6 +7057,7 @@
           "layer": "",
           "locked": false,
           "name": "Wall01",
+          "persistentUuid": "5c73ea48-6938-4f1b-897a-3af45362a9c3",
           "width": 32,
           "x": -4375,
           "y": 1792,
@@ -6830,6 +7073,7 @@
           "layer": "",
           "locked": false,
           "name": "Wall01",
+          "persistentUuid": "f488824c-5854-41bd-b309-7147961adfef",
           "width": 32,
           "x": -2859,
           "y": 1791,
@@ -6845,6 +7089,7 @@
           "layer": "",
           "locked": false,
           "name": "Wall01",
+          "persistentUuid": "1813bc13-038f-4daa-b765-b5fe4c90d968",
           "width": 32,
           "x": -3190,
           "y": 1797,
@@ -6860,6 +7105,7 @@
           "layer": "",
           "locked": false,
           "name": "Wall01",
+          "persistentUuid": "c4ec2166-9eab-4087-af23-ef68731bb71a",
           "width": 32,
           "x": -3402,
           "y": 1795,
@@ -6875,6 +7121,7 @@
           "layer": "",
           "locked": false,
           "name": "Wall01",
+          "persistentUuid": "f488c1ac-ef40-4eee-81ce-ea29ac40af3f",
           "width": 32,
           "x": -4114,
           "y": 1793,
@@ -6890,6 +7137,7 @@
           "layer": "",
           "locked": false,
           "name": "Ladder",
+          "persistentUuid": "f634b15f-c218-4c25-85a6-5ba8e05b2f49",
           "width": 64,
           "x": -914,
           "y": 2913,
@@ -6905,6 +7153,7 @@
           "layer": "",
           "locked": false,
           "name": "Ladder",
+          "persistentUuid": "5ea954eb-a830-4171-a012-26cadde40206",
           "width": 143,
           "x": -992,
           "y": 1623,
@@ -6920,6 +7169,7 @@
           "layer": "",
           "locked": false,
           "name": "Ladder",
+          "persistentUuid": "edf9c4ed-65df-481c-819c-e558716024bb",
           "width": 143,
           "x": -992,
           "y": 1476,
@@ -6935,6 +7185,7 @@
           "layer": "",
           "locked": false,
           "name": "Ladder",
+          "persistentUuid": "58e31578-f2ca-471b-b427-c7bd5e427293",
           "width": 143,
           "x": -992,
           "y": 1326,
@@ -6950,6 +7201,7 @@
           "layer": "",
           "locked": false,
           "name": "Ladder",
+          "persistentUuid": "4f857af2-65f6-483f-9d03-5b29f03399f9",
           "width": 143,
           "x": -989,
           "y": 1173,
@@ -6965,6 +7217,7 @@
           "layer": "",
           "locked": false,
           "name": "Ladder",
+          "persistentUuid": "321cbd10-f1a2-4510-82b5-07a9e6e7a1e3",
           "width": 143,
           "x": -990,
           "y": 1023,
@@ -6980,6 +7233,7 @@
           "layer": "",
           "locked": false,
           "name": "Ladder",
+          "persistentUuid": "94ef6aff-7ee9-44a3-8b7c-84936e78d197",
           "width": 143,
           "x": -990,
           "y": 874,
@@ -6995,6 +7249,7 @@
           "layer": "",
           "locked": false,
           "name": "Ladder",
+          "persistentUuid": "bf565ed9-7645-4876-9603-ede774533203",
           "width": 143,
           "x": -990,
           "y": 729,
@@ -7010,6 +7265,7 @@
           "layer": "",
           "locked": false,
           "name": "Ladder",
+          "persistentUuid": "a4fb1ef9-e7bd-479c-90c7-107e83962747",
           "width": 143,
           "x": -989,
           "y": 578,
@@ -7025,6 +7281,7 @@
           "layer": "",
           "locked": false,
           "name": "Ladder",
+          "persistentUuid": "420ba4f9-8b8e-4c8a-aa4c-76c892f2b683",
           "width": 143,
           "x": -989,
           "y": 432,
@@ -7040,6 +7297,7 @@
           "layer": "",
           "locked": false,
           "name": "Ladder",
+          "persistentUuid": "39223ab4-03ab-4da5-b65d-fe63f23acf31",
           "width": 143,
           "x": -988,
           "y": 291,
@@ -7055,6 +7313,7 @@
           "layer": "",
           "locked": false,
           "name": "Ladder",
+          "persistentUuid": "f8d342e7-4673-4779-831e-6462b3d60cc9",
           "width": 143,
           "x": -987,
           "y": 137,
@@ -7070,6 +7329,7 @@
           "layer": "",
           "locked": false,
           "name": "Ladder",
+          "persistentUuid": "1cda4b98-aee5-4df5-90fd-acf2e38a66a2",
           "width": 143,
           "x": -987,
           "y": -13,
@@ -7085,6 +7345,7 @@
           "layer": "",
           "locked": false,
           "name": "Ladder",
+          "persistentUuid": "d6018301-f6f8-48e5-83b4-c5dad24bb73a",
           "width": 143,
           "x": -990,
           "y": -168,
@@ -7100,6 +7361,7 @@
           "layer": "",
           "locked": false,
           "name": "Ladder",
+          "persistentUuid": "f3c9489e-be43-40e1-abcc-c74f110499ff",
           "width": 143,
           "x": -989,
           "y": -320,
@@ -7115,6 +7377,7 @@
           "layer": "",
           "locked": false,
           "name": "Ladder",
+          "persistentUuid": "68bf5d26-1221-41ac-a439-338fffe0cdd0",
           "width": 143,
           "x": -988,
           "y": -475,
@@ -7130,6 +7393,7 @@
           "layer": "",
           "locked": false,
           "name": "Ladder",
+          "persistentUuid": "b12aa556-c26a-480b-8541-a95ad68cfde6",
           "width": 143,
           "x": -989,
           "y": -628,
@@ -7145,6 +7409,7 @@
           "layer": "",
           "locked": false,
           "name": "Wall01",
+          "persistentUuid": "f61392cb-4816-44bc-87bf-c4e130b0eeff",
           "width": 5753,
           "x": -849,
           "y": -573,
@@ -7160,6 +7425,7 @@
           "layer": "",
           "locked": false,
           "name": "Ladder",
+          "persistentUuid": "148b3497-b9f4-485f-955f-94b65292fd21",
           "width": 143,
           "x": -991,
           "y": -782,
@@ -7175,6 +7441,7 @@
           "layer": "",
           "locked": false,
           "name": "Ladder",
+          "persistentUuid": "8ad78701-7dee-47cd-a72d-4aa2f7ce6e81",
           "width": 143,
           "x": -989,
           "y": -935,
@@ -7190,6 +7457,7 @@
           "layer": "",
           "locked": false,
           "name": "Ladder",
+          "persistentUuid": "095a607d-53fe-4f1d-aa04-5ad404171a55",
           "width": 143,
           "x": -991,
           "y": -1082,
@@ -7205,6 +7473,7 @@
           "layer": "",
           "locked": false,
           "name": "ActivateJumpThrough",
+          "persistentUuid": "405f1889-b34c-41bd-b5a2-a2c3e621f5a8",
           "width": 0,
           "x": -952,
           "y": -1036,
@@ -7220,6 +7489,7 @@
           "layer": "",
           "locked": false,
           "name": "JumpThrough",
+          "persistentUuid": "022bbdd6-8651-4b15-8934-59e576daa40d",
           "width": 147,
           "x": -989,
           "y": -1085,
@@ -7235,6 +7505,7 @@
           "layer": "",
           "locked": false,
           "name": "Wall01",
+          "persistentUuid": "e14ff232-5d88-45bd-b9ef-41dab2c32c96",
           "width": 5061,
           "x": -6057,
           "y": -2913,
@@ -7250,6 +7521,7 @@
           "layer": "",
           "locked": false,
           "name": "Wall01",
+          "persistentUuid": "434d79fa-c82a-4f90-b14b-1f92bf02ce75",
           "width": 5061,
           "x": -6050,
           "y": -1087,
@@ -7265,6 +7537,7 @@
           "layer": "",
           "locked": false,
           "name": "ActivateDarkness",
+          "persistentUuid": "bcf58083-11df-48af-b15e-6e857186e972",
           "width": 142,
           "x": -992,
           "y": -331,
@@ -7280,6 +7553,7 @@
           "layer": "",
           "locked": false,
           "name": "DeActivateDarkness",
+          "persistentUuid": "8999fa5c-7a0d-4086-8da5-1d95fda22047",
           "width": 142,
           "x": -988,
           "y": 242,
@@ -7295,6 +7569,7 @@
           "layer": "",
           "locked": false,
           "name": "DeActivateDarkness",
+          "persistentUuid": "5e3d98d7-929b-447e-92d7-6b11e92b07ce",
           "width": 142,
           "x": 4173,
           "y": -1400,
@@ -7310,6 +7585,7 @@
           "layer": "",
           "locked": false,
           "name": "ActivateDarkness",
+          "persistentUuid": "44c8f5e8-5c01-466a-b912-3036d29107f5",
           "width": 142,
           "x": 3957,
           "y": -1398,
@@ -7325,6 +7601,7 @@
           "layer": "",
           "locked": false,
           "name": "Dark",
+          "persistentUuid": "9b15d9d2-6f93-4904-9b80-23e64ea87419",
           "width": 154,
           "x": -997,
           "y": -1083,
@@ -7340,6 +7617,7 @@
           "layer": "",
           "locked": false,
           "name": "Spikes",
+          "persistentUuid": "b67534f6-f396-4f2d-bff1-023a13bdf534",
           "width": 4167,
           "x": -616,
           "y": -1118,
@@ -7355,6 +7633,7 @@
           "layer": "",
           "locked": false,
           "name": "Ground02",
+          "persistentUuid": "fb637c48-a9ac-404b-a07d-3825c09f1174",
           "width": 577,
           "x": 2305,
           "y": -1257,
@@ -7370,6 +7649,7 @@
           "layer": "",
           "locked": false,
           "name": "Ground02",
+          "persistentUuid": "c958aa76-af91-439b-95ef-fe7223d857cc",
           "width": 114,
           "x": -763,
           "y": -1147,
@@ -7385,6 +7665,7 @@
           "layer": "",
           "locked": false,
           "name": "Ground02",
+          "persistentUuid": "8baa0abb-d473-4c44-9ad8-ad15e93979ca",
           "width": 235,
           "x": -659,
           "y": -1213,
@@ -7400,6 +7681,7 @@
           "layer": "",
           "locked": false,
           "name": "Ground02",
+          "persistentUuid": "8d8dc87c-3a9e-479c-ae0f-70f0fa4377ad",
           "width": 235,
           "x": -307,
           "y": -1217,
@@ -7415,6 +7697,7 @@
           "layer": "",
           "locked": false,
           "name": "Ground02",
+          "persistentUuid": "2bd4fcb1-da2b-46ac-bb77-577bf8648130",
           "width": 235,
           "x": 15,
           "y": -1242,
@@ -7430,6 +7713,7 @@
           "layer": "",
           "locked": false,
           "name": "Ground02",
+          "persistentUuid": "7f37999c-f8cd-4ac8-ad2f-6b04ff92618e",
           "width": 235,
           "x": 339,
           "y": -1227,
@@ -7445,6 +7729,7 @@
           "layer": "",
           "locked": false,
           "name": "Ground02",
+          "persistentUuid": "3c9323ba-2335-4c9a-8ad2-7c46d1e677f2",
           "width": 235,
           "x": 3356,
           "y": -1199,
@@ -7460,6 +7745,7 @@
           "layer": "",
           "locked": false,
           "name": "Ground02",
+          "persistentUuid": "89c5112f-3f23-48e8-81f5-d8c68e33d762",
           "width": 138,
           "x": 956,
           "y": -1267,
@@ -7475,6 +7761,7 @@
           "layer": "",
           "locked": false,
           "name": "Ground02",
+          "persistentUuid": "b6dcc34d-df44-4a42-8ef2-58e1d1f24066",
           "width": 138,
           "x": 2076,
           "y": -1217,
@@ -7490,6 +7777,7 @@
           "layer": "",
           "locked": false,
           "name": "Ground02",
+          "persistentUuid": "7cf9697a-c93d-44ce-9f75-7c877fbffd60",
           "width": 138,
           "x": 1195,
           "y": -1223,
@@ -7505,6 +7793,7 @@
           "layer": "",
           "locked": false,
           "name": "Ground02",
+          "persistentUuid": "85352e87-c3a9-4b88-afc2-78b84fd6ebd4",
           "width": 577,
           "x": 1428,
           "y": -1255,
@@ -7520,6 +7809,7 @@
           "layer": "",
           "locked": false,
           "name": "Ground02",
+          "persistentUuid": "d379814c-c160-4734-9b32-fbd4a1a19fd0",
           "width": 235,
           "x": 623,
           "y": -1250,
@@ -7535,6 +7825,7 @@
           "layer": "",
           "locked": false,
           "name": "Ground02",
+          "persistentUuid": "8175dcaa-9c30-4fe5-8075-054030f12cb2",
           "width": 235,
           "x": 3017,
           "y": -1214,
@@ -7550,6 +7841,7 @@
           "layer": "",
           "locked": false,
           "name": "Dark",
+          "persistentUuid": "fa01b152-733b-4651-9e51-d01f53dbea5a",
           "width": 5172,
           "x": -998,
           "y": -1404,
@@ -7565,6 +7857,7 @@
           "layer": "",
           "locked": false,
           "name": "Checkpoint",
+          "persistentUuid": "6c3c0be8-b6a4-4a3a-89a2-9e38e15466d0",
           "width": 72,
           "x": 4655,
           "y": -1223,
@@ -7585,6 +7878,7 @@
           "layer": "",
           "locked": false,
           "name": "Ground02",
+          "persistentUuid": "f5eeb4a7-c24a-40ca-bd57-5f95ca86cba1",
           "width": 269,
           "x": -4230,
           "y": 780,
@@ -7600,6 +7894,7 @@
           "layer": "",
           "locked": false,
           "name": "Ground02",
+          "persistentUuid": "a7ffcdb2-c92c-4df5-acaa-c7a31f9a768a",
           "width": 269,
           "x": -1403,
           "y": 789,
@@ -7615,6 +7910,7 @@
           "layer": "",
           "locked": false,
           "name": "Ground02",
+          "persistentUuid": "5d576d7f-ad6f-4ee4-8bf6-4ec6d6cd9b91",
           "width": 269,
           "x": -1760,
           "y": 801,
@@ -7630,6 +7926,7 @@
           "layer": "",
           "locked": false,
           "name": "Ground02",
+          "persistentUuid": "76a8c6cc-6f9c-43df-bbea-6bedad8a45d8",
           "width": 269,
           "x": -2139,
           "y": 818,
@@ -7645,6 +7942,7 @@
           "layer": "",
           "locked": false,
           "name": "Ground02",
+          "persistentUuid": "e595f7e1-d719-469e-86c6-aa4ec73be98b",
           "width": 269,
           "x": -2497,
           "y": 816,
@@ -7660,6 +7958,7 @@
           "layer": "",
           "locked": false,
           "name": "Ground02",
+          "persistentUuid": "c4a09673-59a9-477c-85a0-da6c220d5337",
           "width": 269,
           "x": -2856,
           "y": 833,
@@ -7675,6 +7974,7 @@
           "layer": "",
           "locked": false,
           "name": "Ground02",
+          "persistentUuid": "107291c3-6d5e-46fa-8e43-72a6b00dcca5",
           "width": 269,
           "x": -3203,
           "y": 842,
@@ -7690,6 +7990,7 @@
           "layer": "",
           "locked": false,
           "name": "Ground02",
+          "persistentUuid": "bf363f21-88a8-477f-8b2b-bb28d7d4fe5a",
           "width": 269,
           "x": -3544,
           "y": 830,
@@ -7705,6 +8006,7 @@
           "layer": "",
           "locked": false,
           "name": "Ground02",
+          "persistentUuid": "44a666e9-fb02-4f07-a772-a77b8bc57334",
           "width": 269,
           "x": -3891,
           "y": 813,
@@ -7720,6 +8022,7 @@
           "layer": "",
           "locked": false,
           "name": "KeyHalfA",
+          "persistentUuid": "cf83eed1-fa26-4233-8910-abcdc18d8976",
           "width": 31,
           "x": -4212,
           "y": 744,
@@ -7735,6 +8038,7 @@
           "layer": "",
           "locked": false,
           "name": "ParachuteArea",
+          "persistentUuid": "92dd6b31-05a5-4d5a-90e6-9e6e5899c138",
           "width": 3854,
           "x": -4853,
           "y": 969,
@@ -7750,6 +8054,7 @@
           "layer": "HUD",
           "locked": false,
           "name": "KeyHalfAInv",
+          "persistentUuid": "e0a171f8-fc08-4784-9a37-f22c19f21b6a",
           "width": 48,
           "x": 720,
           "y": 705,
@@ -7765,6 +8070,7 @@
           "layer": "HUD",
           "locked": false,
           "name": "OxygenBar",
+          "persistentUuid": "bd1668fe-ed8a-46df-ba58-3cb1ce409055",
           "width": 251,
           "x": 904,
           "y": 83,
@@ -7780,6 +8086,7 @@
           "layer": "HUD",
           "locked": false,
           "name": "InvBG",
+          "persistentUuid": "8187ca67-6f16-4e48-9bb4-a989bc498661",
           "width": 461,
           "x": 423,
           "y": 746,
@@ -7795,6 +8102,7 @@
           "layer": "HUD",
           "locked": false,
           "name": "oxygenBarBG",
+          "persistentUuid": "278ee1d6-3d43-464d-aac1-1a7e516efc3f",
           "width": 255,
           "x": 903,
           "y": 82,
@@ -7810,6 +8118,7 @@
           "layer": "",
           "locked": false,
           "name": "Wall01",
+          "persistentUuid": "29b6ee46-39c4-4f28-b778-6fdca75ed6e5",
           "width": 5630,
           "x": -845,
           "y": -1085,
@@ -7825,6 +8134,7 @@
           "layer": "",
           "locked": false,
           "name": "Wall01",
+          "persistentUuid": "09d2a10b-c728-4e26-b6b4-f8bf02b32106",
           "width": 882,
           "x": 4001,
           "y": -30,
@@ -7840,6 +8150,7 @@
           "layer": "",
           "locked": false,
           "name": "Wall01",
+          "persistentUuid": "38023c4e-9d71-4cb8-a1af-fd6d63772cca",
           "width": 5753,
           "x": -894,
           "y": 3982,
@@ -7855,6 +8166,7 @@
           "layer": "",
           "locked": false,
           "name": "Ground02",
+          "persistentUuid": "ded7c560-1b48-490a-9c5d-6ec9663ab7f6",
           "width": 349,
           "x": 5456,
           "y": -280,
@@ -7870,6 +8182,7 @@
           "layer": "",
           "locked": false,
           "name": "Ground02",
+          "persistentUuid": "81b5e818-5365-4ddc-9d55-b022ccac2548",
           "width": 55,
           "x": 5097,
           "y": 2685,
@@ -7885,6 +8198,7 @@
           "layer": "",
           "locked": false,
           "name": "Ground02",
+          "persistentUuid": "d81ec823-c312-40ef-80ce-27ac656f2697",
           "width": 545,
           "x": 4783,
           "y": -803,
@@ -7900,6 +8214,7 @@
           "layer": "",
           "locked": false,
           "name": "Ground02",
+          "persistentUuid": "f20abb6b-7d73-4a9c-8bd1-e10638c75c8f",
           "width": 543,
           "x": 5303,
           "y": -633,
@@ -7915,6 +8230,7 @@
           "layer": "",
           "locked": false,
           "name": "Ground02",
+          "persistentUuid": "4253dd38-c877-4e8c-8eb6-5d9f5b782ad9",
           "width": 448,
           "x": 5098,
           "y": 2652,
@@ -7930,6 +8246,7 @@
           "layer": "",
           "locked": false,
           "name": "Ground02",
+          "persistentUuid": "f9860f57-6e47-4798-b298-0ec72548bb5b",
           "width": 55,
           "x": 5455,
           "y": -1027,
@@ -7945,6 +8262,7 @@
           "layer": "",
           "locked": false,
           "name": "WaterSurface",
+          "persistentUuid": "d08e2c08-3346-4d6f-bdf1-d3464cdb953b",
           "width": 1032,
           "x": 4785,
           "y": -1076,
@@ -7960,6 +8278,7 @@
           "layer": "",
           "locked": false,
           "name": "Water",
+          "persistentUuid": "fe811ecb-c481-4545-80aa-9055adfdf8d1",
           "width": 1003,
           "x": 4785,
           "y": -1029,
@@ -7975,6 +8294,7 @@
           "layer": "",
           "locked": false,
           "name": "Water",
+          "persistentUuid": "c1193852-2755-4f6c-968e-aacc9367596c",
           "width": 698,
           "x": 5093,
           "y": -424,
@@ -7990,6 +8310,7 @@
           "layer": "",
           "locked": false,
           "name": "Ground02",
+          "persistentUuid": "927b6fd7-6374-440a-8cd7-88b570d64524",
           "width": 569,
           "x": 4785,
           "y": -452,
@@ -8005,6 +8326,7 @@
           "layer": "",
           "locked": false,
           "name": "Ground02",
+          "persistentUuid": "443575b3-57c1-491e-8d78-e37187680ea2",
           "width": 55,
           "x": 5093,
           "y": -421,
@@ -8020,6 +8342,7 @@
           "layer": "",
           "locked": false,
           "name": "WaterSurface",
+          "persistentUuid": "d8dd7261-a6c4-4ec4-9cb5-cbcd4f90ce87",
           "width": 186,
           "x": 4905,
           "y": -314,
@@ -8035,6 +8358,7 @@
           "layer": "",
           "locked": false,
           "name": "WaterSurface",
+          "persistentUuid": "d2408528-ba0f-46b4-a924-625b7d417e1a",
           "width": 155,
           "x": 4881,
           "y": 1970,
@@ -8050,6 +8374,7 @@
           "layer": "",
           "locked": false,
           "name": "Ground02",
+          "persistentUuid": "4ac6d9fd-0fed-42c9-876c-72b5928af81e",
           "width": 55,
           "x": 5518,
           "y": -86,
@@ -8065,6 +8390,7 @@
           "layer": "",
           "locked": false,
           "name": "Ground02",
+          "persistentUuid": "f0a5cd63-cddb-4b9a-887b-e626d66d1892",
           "width": 694,
           "x": 4878,
           "y": -117,
@@ -8080,6 +8406,7 @@
           "layer": "",
           "locked": false,
           "name": "WaterSurface",
+          "persistentUuid": "7f758991-b591-416a-885c-c3a13c21e4a5",
           "width": 186,
           "x": 5330,
           "y": -37,
@@ -8095,6 +8422,7 @@
           "layer": "",
           "locked": false,
           "name": "Ground02",
+          "persistentUuid": "dbfc559a-5ead-4c14-a750-64c1c4dadd93",
           "width": 55,
           "x": 5274,
           "y": -86,
@@ -8110,6 +8438,7 @@
           "layer": "",
           "locked": false,
           "name": "Ground02",
+          "persistentUuid": "98f08bd6-c7ae-4c7f-8772-97230acc3a59",
           "width": 807,
           "x": 4999,
           "y": 677,
@@ -8125,6 +8454,7 @@
           "layer": "",
           "locked": false,
           "name": "Ground02",
+          "persistentUuid": "04c1e2e9-7219-44c6-bb61-8bcd8b447714",
           "width": 694,
           "x": 5087,
           "y": 1169,
@@ -8140,6 +8470,7 @@
           "layer": "",
           "locked": false,
           "name": "Ground02",
+          "persistentUuid": "1c42a454-0958-4dbb-8031-59ac73e19aa7",
           "width": 694,
           "x": 4883,
           "y": 1388,
@@ -8155,6 +8486,7 @@
           "layer": "",
           "locked": false,
           "name": "Ground02",
+          "persistentUuid": "53c8d634-9664-4117-8e52-a0f6357c3e35",
           "width": 694,
           "x": 4884,
           "y": 1645,
@@ -8170,6 +8502,7 @@
           "layer": "",
           "locked": false,
           "name": "WaterSurface",
+          "persistentUuid": "130c45d0-24cc-4dbc-8416-5abdddd67ea1",
           "width": 736,
           "x": 5058,
           "y": 777,
@@ -8185,6 +8518,7 @@
           "layer": "",
           "locked": false,
           "name": "Ground02",
+          "persistentUuid": "3b9eae06-49cd-4dbd-ab71-0e2ffe0d491a",
           "width": 232,
           "x": 5563,
           "y": 1777,
@@ -8200,6 +8534,7 @@
           "layer": "",
           "locked": false,
           "name": "Ground02",
+          "persistentUuid": "6d8c7680-af02-44fa-9515-d8fe0953478f",
           "width": 55,
           "x": 5000,
           "y": 709,
@@ -8215,6 +8550,7 @@
           "layer": "",
           "locked": false,
           "name": "Ground02",
+          "persistentUuid": "e8b8d003-ba4f-4c34-b3d2-5b48e1e85415",
           "width": 55,
           "x": 5038,
           "y": 1954,
@@ -8230,6 +8566,7 @@
           "layer": "",
           "locked": false,
           "name": "Ground02",
+          "persistentUuid": "445d83e0-9ed5-4e64-8022-173fca42bf44",
           "width": 694,
           "x": 4878,
           "y": 1922,
@@ -8245,6 +8582,7 @@
           "layer": "",
           "locked": false,
           "name": "Water",
+          "persistentUuid": "d179be06-2438-465a-9a28-c87e95496e02",
           "width": 191,
           "x": 5093,
           "y": -87,
@@ -8260,6 +8598,7 @@
           "layer": "",
           "locked": false,
           "name": "Water",
+          "persistentUuid": "d438ce80-7fd7-4366-9270-e32ceba4c5e4",
           "width": 217,
           "x": 4878,
           "y": -265,
@@ -8275,6 +8614,7 @@
           "layer": "",
           "locked": false,
           "name": "Water",
+          "persistentUuid": "f8f21ec4-46d1-4859-a31f-9534b2cd82bd",
           "width": 513,
           "x": 5272,
           "y": 27,
@@ -8290,6 +8630,7 @@
           "layer": "",
           "locked": false,
           "name": "Water",
+          "persistentUuid": "803f9e76-060a-4916-891a-b10e4602fddb",
           "width": 908,
           "x": 4878,
           "y": 818,
@@ -8305,6 +8646,7 @@
           "layer": "",
           "locked": false,
           "name": "Water",
+          "persistentUuid": "ead1d3a1-b28f-4787-b5bf-5e6404915f2b",
           "width": 180,
           "x": 4881,
           "y": 685,
@@ -8320,6 +8662,7 @@
           "layer": "",
           "locked": false,
           "name": "Water",
+          "persistentUuid": "f3cabbb7-b282-4248-8d24-142672c80943",
           "width": 701,
           "x": 5090,
           "y": 1947,
@@ -8335,6 +8678,7 @@
           "layer": "",
           "locked": false,
           "name": "Water",
+          "persistentUuid": "acc92cad-4bf7-4168-8f5d-515c2cf99d61",
           "width": 264,
           "x": 4885,
           "y": 2013,
@@ -8350,6 +8694,7 @@
           "layer": "",
           "locked": false,
           "name": "Water",
+          "persistentUuid": "e91e412f-47c9-4529-9271-0deaed609f83",
           "width": 272,
           "x": 5517,
           "y": -109,
@@ -8365,6 +8710,7 @@
           "layer": "",
           "locked": false,
           "name": "Ground02",
+          "persistentUuid": "eee66526-468c-43e6-929d-b6a2417c1f94",
           "width": 694,
           "x": 4880,
           "y": 4032,
@@ -8380,6 +8726,7 @@
           "layer": "",
           "locked": false,
           "name": "Ground02",
+          "persistentUuid": "ba7fe902-f294-4c0b-bea1-346b874e8b20",
           "width": 241,
           "x": 5653,
           "y": 2652,
@@ -8395,6 +8742,7 @@
           "layer": "",
           "locked": false,
           "name": "Hole",
+          "persistentUuid": "aac84431-e1fd-4f01-8d87-3a1002885bec",
           "width": 113,
           "x": 5541,
           "y": 2653,
@@ -8410,6 +8758,7 @@
           "layer": "",
           "locked": false,
           "name": "ParachuteArea",
+          "persistentUuid": "03acaacb-89f4-4482-b52b-4f4a9bb2efc8",
           "width": 482,
           "x": 5300,
           "y": 4067,
@@ -8425,6 +8774,7 @@
           "layer": "",
           "locked": false,
           "name": "KeyHalfB",
+          "persistentUuid": "8964b235-609a-4e94-a639-c0ba336b4634",
           "width": 31,
           "x": 5748,
           "y": 761,
@@ -8440,6 +8790,7 @@
           "layer": "HUD",
           "locked": false,
           "name": "KeyHalfBInv",
+          "persistentUuid": "057a27b5-c848-4c53-9d72-894633a749a5",
           "width": 30,
           "x": 778,
           "y": 756,
@@ -8455,6 +8806,7 @@
           "layer": "HUD",
           "locked": false,
           "name": "KeyWhole",
+          "persistentUuid": "092b66ae-9600-4e88-b711-90868b55851a",
           "width": 28,
           "x": 837,
           "y": 751,
@@ -8470,6 +8822,7 @@
           "layer": "",
           "locked": false,
           "name": "ParachuteArea",
+          "persistentUuid": "7747b6bd-235e-4be8-8c7a-db0b072f40ad",
           "width": 657,
           "x": 5137,
           "y": 2704,
@@ -8485,6 +8838,7 @@
           "layer": "",
           "locked": false,
           "name": "TreasureChest",
+          "persistentUuid": "e865f080-997f-4993-9587-60b8b1883af2",
           "width": 46,
           "x": 4860,
           "y": 4444,
@@ -8500,6 +8854,7 @@
           "layer": "",
           "locked": false,
           "name": "InvWall",
+          "persistentUuid": "dcfd6694-8470-4683-b2a8-cb9b731bf624",
           "width": 1005,
           "x": 4790,
           "y": -1087,
@@ -8515,6 +8870,7 @@
           "layer": "",
           "locked": false,
           "name": "InvWall",
+          "persistentUuid": "eb831df8-93ce-4d0d-8403-1f99f8c63c25",
           "width": 187,
           "x": 4906,
           "y": -321,
@@ -8530,6 +8886,7 @@
           "layer": "",
           "locked": false,
           "name": "InvWall",
+          "persistentUuid": "98e6c74b-0468-465d-b469-4b626a80e46b",
           "width": 187,
           "x": 5331,
           "y": -44,
@@ -8545,6 +8902,7 @@
           "layer": "",
           "locked": false,
           "name": "InvWall",
+          "persistentUuid": "7c3fee7b-5163-47e4-b9e5-6daee856c4e2",
           "width": 734,
           "x": 5057,
           "y": 749,
@@ -8560,6 +8918,7 @@
           "layer": "",
           "locked": false,
           "name": "InvWall",
+          "persistentUuid": "ce62a2ee-0c2b-43e7-a6b2-8cba09285f53",
           "width": 187,
           "x": 4875,
           "y": 1964,
@@ -8575,6 +8934,7 @@
           "layer": "HUD",
           "locked": false,
           "name": "Message",
+          "persistentUuid": "b3ae8871-4f99-4d28-a2a0-0bb84b166194",
           "width": 394,
           "x": 441,
           "y": 513,
@@ -8590,6 +8950,7 @@
           "layer": "",
           "locked": false,
           "name": "sign",
+          "persistentUuid": "e6b95a48-ba95-42f9-aed2-2aaa9c484983",
           "width": 88,
           "x": 1072,
           "y": 167,
@@ -8610,6 +8971,7 @@
           "layer": "",
           "locked": false,
           "name": "sign",
+          "persistentUuid": "15178d88-52a8-421c-88d2-47a2afc8a8d1",
           "width": 88,
           "x": 68,
           "y": 4,
@@ -8630,6 +8992,7 @@
           "layer": "",
           "locked": false,
           "name": "MessageRemover",
+          "persistentUuid": "fa391b6d-e711-42dc-8c00-82a053558352",
           "width": 24,
           "x": 1193,
           "y": 175,
@@ -8645,6 +9008,7 @@
           "layer": "",
           "locked": false,
           "name": "MessageRemover",
+          "persistentUuid": "e9ffbdba-d25d-40f6-9371-2b8293d06930",
           "width": 24,
           "x": 51,
           "y": 9,
@@ -8660,6 +9024,7 @@
           "layer": "",
           "locked": false,
           "name": "MessageRemover",
+          "persistentUuid": "927e2453-3d08-4a47-b1dd-e220af37fe59",
           "width": 24,
           "x": 183,
           "y": 14,
@@ -8675,6 +9040,7 @@
           "layer": "",
           "locked": false,
           "name": "MessageRemover",
+          "persistentUuid": "30e4b436-7d9a-4c46-b4bc-e76ecf2f7df2",
           "width": 24,
           "x": 1005,
           "y": 179,
@@ -8690,6 +9056,7 @@
           "layer": "",
           "locked": false,
           "name": "sign",
+          "persistentUuid": "433330b0-c371-4f31-85a0-a10b8194d6b0",
           "width": 88,
           "x": 1891,
           "y": 75,
@@ -8710,6 +9077,7 @@
           "layer": "",
           "locked": false,
           "name": "MessageRemover",
+          "persistentUuid": "403b6f61-05d2-4037-b00c-c51953b4e8d2",
           "width": 24,
           "x": 1986,
           "y": 82,
@@ -8725,6 +9093,7 @@
           "layer": "",
           "locked": false,
           "name": "MessageRemover",
+          "persistentUuid": "04a0ae36-eb92-41cc-ad51-ef9c30a8b9a8",
           "width": 24,
           "x": 1857,
           "y": 83,
@@ -8740,6 +9109,7 @@
           "layer": "",
           "locked": false,
           "name": "MessageRemover",
+          "persistentUuid": "201984f4-de1d-49b2-87e2-8a5318d4bee7",
           "width": 24,
           "x": 948,
           "y": 10,
@@ -8755,6 +9125,7 @@
           "layer": "",
           "locked": false,
           "name": "MessageRemover",
+          "persistentUuid": "8c7bdcff-bd21-49ab-b027-dfa7195b9ecd",
           "width": 24,
           "x": 2831,
           "y": 241,
@@ -8770,6 +9141,7 @@
           "layer": "",
           "locked": false,
           "name": "MessageRemover",
+          "persistentUuid": "014848d0-ee2a-42b9-8e74-3420a4ad72f2",
           "width": 24,
           "x": 3764,
           "y": 136,
@@ -8785,6 +9157,7 @@
           "layer": "",
           "locked": false,
           "name": "MessageRemover",
+          "persistentUuid": "4065049e-bb97-4a76-8473-2ee5dd722f6f",
           "width": 24,
           "x": -3993,
           "y": 623,
@@ -8800,6 +9173,7 @@
           "layer": "",
           "locked": false,
           "name": "MessageRemover",
+          "persistentUuid": "ad301e47-fd46-4ad9-8362-fd9fdba60e5f",
           "width": 24,
           "x": 5429,
           "y": 713,
@@ -8815,6 +9189,7 @@
           "layer": "",
           "locked": false,
           "name": "flame",
+          "persistentUuid": "f484d925-b3cc-4bd0-ad0b-389dcd662d2a",
           "width": 0,
           "x": -1371,
           "y": 3718,
@@ -8830,6 +9205,7 @@
           "layer": "",
           "locked": false,
           "name": "flame",
+          "persistentUuid": "8129645f-cd54-4ed9-aed4-6d4d456b3393",
           "width": 0,
           "x": -4491,
           "y": 3792,
@@ -8845,6 +9221,7 @@
           "layer": "",
           "locked": false,
           "name": "flame",
+          "persistentUuid": "3a2987f7-277b-47ca-9dcb-af2ea59c35f4",
           "width": 0,
           "x": -1802,
           "y": 3726,
@@ -8860,6 +9237,7 @@
           "layer": "",
           "locked": false,
           "name": "flame",
+          "persistentUuid": "e652d82c-a2db-4fbc-b7ad-f10841e0ee01",
           "width": 0,
           "x": -2184,
           "y": 3762,
@@ -8875,6 +9253,7 @@
           "layer": "",
           "locked": false,
           "name": "flame",
+          "persistentUuid": "b628ad22-c506-4514-a5be-5fe2555cd3aa",
           "width": 0,
           "x": -2935,
           "y": 3741,
@@ -8890,6 +9269,7 @@
           "layer": "",
           "locked": false,
           "name": "flame",
+          "persistentUuid": "cdc8ff0e-2dcb-4f5c-9b65-6df81616ed88",
           "width": 0,
           "x": -3337,
           "y": 3745,
@@ -8905,6 +9285,7 @@
           "layer": "",
           "locked": false,
           "name": "flame",
+          "persistentUuid": "b89d4fc7-1db9-4b1c-853c-b03b23717de5",
           "width": 0,
           "x": -4101,
           "y": 3744,
@@ -8920,6 +9301,7 @@
           "layer": "",
           "locked": false,
           "name": "ChangeFlameDirection",
+          "persistentUuid": "720d9230-5c90-40bc-b44f-ef67b1def323",
           "width": 3578,
           "x": -4581,
           "y": 3584,
@@ -8935,6 +9317,7 @@
           "layer": "",
           "locked": false,
           "name": "Dead",
+          "persistentUuid": "2317e53a-6635-418e-8313-c2df8731f39d",
           "width": 86,
           "x": 787,
           "y": 414,
@@ -8950,6 +9333,7 @@
           "layer": "",
           "locked": false,
           "name": "Dead",
+          "persistentUuid": "b814f94b-b3cc-4207-b6a8-b61b2ccb19a7",
           "width": 116,
           "x": 794,
           "y": 647,
@@ -8965,6 +9349,7 @@
           "layer": "",
           "locked": false,
           "name": "Checkpoint",
+          "persistentUuid": "fff5c04f-3895-488f-9ab5-d9f7d5676f68",
           "width": 119,
           "x": -993,
           "y": -1221,
@@ -8985,6 +9370,7 @@
           "layer": "",
           "locked": false,
           "name": "ChangeFlameDirectionDown",
+          "persistentUuid": "787712e0-5f9e-4098-89d6-26e99f5002b2",
           "width": 3772,
           "x": -4707,
           "y": 3967,
@@ -9000,6 +9386,7 @@
           "layer": "",
           "locked": false,
           "name": "Dead",
+          "persistentUuid": "8cebe1f2-e3ad-4339-a950-8f99cf41bad3",
           "width": 247,
           "x": 664,
           "y": 1341,
@@ -9015,6 +9402,7 @@
           "layer": "",
           "locked": false,
           "name": "Player",
+          "persistentUuid": "a246cc44-f847-46bb-88b4-60b4fb9252ac",
           "width": 34,
           "x": 22,
           "y": 27,
@@ -9035,6 +9423,7 @@
           "layer": "",
           "locked": false,
           "name": "ActivateLavaPlatform",
+          "persistentUuid": "7c53a22f-3abd-421b-8ca2-b88f4a1ddf1f",
           "width": 252,
           "x": -814,
           "y": 3595,
@@ -9055,6 +9444,7 @@
           "layer": "",
           "locked": false,
           "name": "steamsoundstop",
+          "persistentUuid": "fa64e1c9-9115-411a-974a-07d218020a4f",
           "width": 241,
           "x": 3459,
           "y": 1438,
@@ -9070,6 +9460,7 @@
           "layer": "",
           "locked": false,
           "name": "SteamArea",
+          "persistentUuid": "eb2c43fa-7b3c-462b-8e6f-9d12a6e9897a",
           "width": 286,
           "x": 1222,
           "y": 1183,
@@ -9085,6 +9476,7 @@
           "layer": "",
           "locked": false,
           "name": "Wall01",
+          "persistentUuid": "fa12600c-78ea-488d-b271-4dfd5cfaa406",
           "width": 277,
           "x": 3186,
           "y": 1520,
@@ -9100,6 +9492,7 @@
           "layer": "",
           "locked": false,
           "name": "Wall01",
+          "persistentUuid": "37c90a6d-feb7-4a5f-9e69-8204fb8c801f",
           "width": 277,
           "x": 3094,
           "y": 1612,
@@ -9115,6 +9508,7 @@
           "layer": "",
           "locked": false,
           "name": "Wall01",
+          "persistentUuid": "75024ced-e22c-408e-b33a-79fea5630095",
           "width": 277,
           "x": 3151,
           "y": 1555,
@@ -9130,6 +9524,7 @@
           "layer": "",
           "locked": false,
           "name": "ParachuteArea",
+          "persistentUuid": "9605a0b2-a604-4cfe-ac14-7e5aa740a805",
           "width": 683,
           "x": 3316,
           "y": 726,
@@ -9145,6 +9540,7 @@
           "layer": "",
           "locked": false,
           "name": "Dead",
+          "persistentUuid": "69797945-1bd8-4123-a567-d5402543bb35",
           "width": 335,
           "x": 3096,
           "y": 641,
@@ -9160,6 +9556,7 @@
           "layer": "",
           "locked": false,
           "name": "BreakableWall",
+          "persistentUuid": "de40c263-ab80-4432-9270-c50e012b873e",
           "width": 19,
           "x": 634,
           "y": 381,
@@ -9175,6 +9572,7 @@
           "layer": "",
           "locked": false,
           "name": "BreakableWall",
+          "persistentUuid": "86e8e579-4282-4117-91a7-02abb4654bec",
           "width": 19,
           "x": 788,
           "y": 315,
@@ -9190,6 +9588,7 @@
           "layer": "",
           "locked": false,
           "name": "BreakableWall",
+          "persistentUuid": "2e7d1f5b-fd88-47c9-a62f-0a74d459fd35",
           "width": 19,
           "x": 788,
           "y": 342,
@@ -9205,6 +9604,7 @@
           "layer": "",
           "locked": false,
           "name": "BreakableWall",
+          "persistentUuid": "2b8daba4-1c37-43e7-a91d-db47bc73fc8a",
           "width": 19,
           "x": 788,
           "y": 273,
@@ -9220,6 +9620,7 @@
           "layer": "",
           "locked": false,
           "name": "BreakableWall",
+          "persistentUuid": "65f0d399-730f-4bac-8678-fb4e9189d735",
           "width": 19,
           "x": 634,
           "y": 302,
@@ -9235,6 +9636,7 @@
           "layer": "",
           "locked": false,
           "name": "BreakableWall",
+          "persistentUuid": "41b54499-264d-400f-9e09-9ed5106e3d5c",
           "width": 19,
           "x": 634,
           "y": 347,
@@ -9250,6 +9652,7 @@
           "layer": "",
           "locked": false,
           "name": "BreakableWall",
+          "persistentUuid": "0497f7f4-a666-4197-9811-178064683336",
           "width": 37,
           "x": -73,
           "y": 3443,
@@ -9265,6 +9668,7 @@
           "layer": "",
           "locked": false,
           "name": "BreakableWall",
+          "persistentUuid": "b8ea84e5-f5e5-4b88-a365-d567ba7d4d50",
           "width": 37,
           "x": -72,
           "y": 3519,
@@ -9280,6 +9684,7 @@
           "layer": "",
           "locked": false,
           "name": "BreakableWall",
+          "persistentUuid": "501a2187-3c20-4eab-a45b-2fa01c43c506",
           "width": 37,
           "x": -584,
           "y": 3447,
@@ -9295,6 +9700,7 @@
           "layer": "",
           "locked": false,
           "name": "BreakableWall",
+          "persistentUuid": "cc9320e1-8604-4f71-82e4-6e8eeebf4623",
           "width": 37,
           "x": -581,
           "y": 3522,
@@ -9310,6 +9716,7 @@
           "layer": "",
           "locked": false,
           "name": "BreakableWall",
+          "persistentUuid": "97f6ad8e-ed57-40c0-8c62-af6ac38d4f9b",
           "width": 19,
           "x": 658,
           "y": 475,
@@ -9325,6 +9732,7 @@
           "layer": "",
           "locked": false,
           "name": "BreakableWall",
+          "persistentUuid": "105dc836-1d5a-4540-89f6-de73db26355c",
           "width": 19,
           "x": 658,
           "y": 540,
@@ -9340,6 +9748,7 @@
           "layer": "",
           "locked": false,
           "name": "BreakableWall",
+          "persistentUuid": "96dac66a-88ce-4cc2-827a-0f1b3b284869",
           "width": 19,
           "x": 840,
           "y": 481,
@@ -9355,6 +9764,7 @@
           "layer": "",
           "locked": false,
           "name": "BreakableWall",
+          "persistentUuid": "5b735cc1-6dca-4c0e-a919-550c3545f156",
           "width": 19,
           "x": 841,
           "y": 550,
@@ -9370,6 +9780,7 @@
           "layer": "",
           "locked": false,
           "name": "ParachuteArea",
+          "persistentUuid": "280dbea5-0e7b-4881-aefb-0f35b6667226",
           "width": 176,
           "x": 3107,
           "y": 328,
@@ -9385,6 +9796,7 @@
           "layer": "",
           "locked": false,
           "name": "TooHigh",
+          "persistentUuid": "80b1122f-519f-45a4-8cea-dbe46526784a",
           "width": 183,
           "x": 3106,
           "y": 492,
@@ -9400,6 +9812,7 @@
           "layer": "",
           "locked": false,
           "name": "TooHigh",
+          "persistentUuid": "dae190c9-ad99-49a1-800d-a934040486b6",
           "width": 168,
           "x": 3113,
           "y": 363,
@@ -9415,6 +9828,7 @@
           "layer": "",
           "locked": false,
           "name": "TooHigh",
+          "persistentUuid": "97669a85-a11e-46c5-b145-4f8019ba66b7",
           "width": 185,
           "x": 3111,
           "y": 442,
@@ -9593,12 +10007,12 @@
           ]
         },
         {
-          "height": 32,
+          "height": 24,
           "name": "Spikes",
           "tags": "",
           "texture": "Textures/spike.png",
           "type": "TiledSpriteObject::TiledSprite",
-          "width": 32,
+          "width": 24,
           "variables": [],
           "behaviors": []
         },
@@ -15603,6 +16017,11 @@
       ],
       "layers": [
         {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
           "name": "",
           "visibility": true,
           "cameras": [
@@ -15661,6 +16080,11 @@
           ]
         },
         {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
           "name": "HUD",
           "visibility": true,
           "cameras": [],
@@ -15714,6 +16138,7 @@
           "layer": "",
           "locked": false,
           "name": "BlackBG",
+          "persistentUuid": "704efd0c-f4ad-4fc1-811d-7e7686f24566",
           "width": 1325,
           "x": -6,
           "y": -3,
@@ -15729,6 +16154,7 @@
           "layer": "",
           "locked": false,
           "name": "BigTreasure",
+          "persistentUuid": "983fd580-d5eb-4db3-b02e-d1979f5baea8",
           "width": 589,
           "x": 326,
           "y": 1,
@@ -15744,6 +16170,7 @@
           "layer": "",
           "locked": false,
           "name": "EndingMessage",
+          "persistentUuid": "4cdb21d1-f86b-4c24-9608-71c5ba2db0fe",
           "width": 0,
           "x": 196,
           "y": 566,
@@ -15846,6 +16273,11 @@
       "events": [],
       "layers": [
         {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
           "name": "",
           "visibility": true,
           "cameras": [
@@ -16369,6 +16801,17 @@
               },
               "parameters": [
                 "steamsoundstop"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "ResetTimer"
+              },
+              "parameters": [
+                "",
+                "\"DeathWait\""
               ],
               "subInstructions": []
             }
@@ -17610,6 +18053,14 @@
                 }
               ],
               "events": []
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [],
+              "events": []
             }
           ]
         },
@@ -17891,6 +18342,31 @@
             {
               "type": {
                 "inverted": false,
+                "value": "ResetTimer"
+              },
+              "parameters": [
+                "",
+                "\"DeathWait\""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "impaled.wav",
+                "",
+                "10",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
                 "value": "ChangeAnimation"
               },
               "parameters": [
@@ -17911,16 +18387,58 @@
                 ""
               ],
               "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Timer"
+              },
+              "parameters": [
+                "",
+                "3",
+                "\"DeathWait\""
+              ],
+              "subInstructions": []
             },
             {
               "type": {
                 "inverted": false,
-                "value": "ModVarGlobal"
+                "value": "Animation"
               },
               "parameters": [
-                "Dead",
+                "Hero",
                 "=",
                 "1"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": [],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "ChangeSprite"
+              },
+              "parameters": [
+                "Message",
+                "=",
+                "RandomInRange(7, 19)"
               ],
               "subInstructions": []
             },
@@ -17938,634 +18456,16 @@
             {
               "type": {
                 "inverted": false,
-                "value": "ChangeSprite"
+                "value": "ModVarGlobal"
               },
               "parameters": [
-                "Message",
+                "Dead",
                 "=",
-                "RandomInRange(7, 19)"
-              ],
-              "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
-                "value": "PlaySound"
-              },
-              "parameters": [
-                "",
-                "impaled.wav",
-                "",
-                "10",
-                ""
+                "1"
               ],
               "subInstructions": []
             }
           ],
-          "events": [
-            {
-              "disabled": false,
-              "folded": false,
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "VarObjet"
-                  },
-                  "parameters": [
-                    "DropPlatform",
-                    "counter",
-                    "=",
-                    "0"
-                  ],
-                  "subInstructions": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "MettreY"
-                  },
-                  "parameters": [
-                    "DropPlatform",
-                    "=",
-                    "2071"
-                  ],
-                  "subInstructions": []
-                }
-              ],
-              "events": []
-            },
-            {
-              "disabled": false,
-              "folded": false,
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "VarObjet"
-                  },
-                  "parameters": [
-                    "DropPlatform",
-                    "counter",
-                    "=",
-                    "1"
-                  ],
-                  "subInstructions": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "MettreY"
-                  },
-                  "parameters": [
-                    "DropPlatform",
-                    "=",
-                    "2034"
-                  ],
-                  "subInstructions": []
-                }
-              ],
-              "events": []
-            },
-            {
-              "disabled": false,
-              "folded": false,
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "VarObjet"
-                  },
-                  "parameters": [
-                    "DropPlatform",
-                    "counter",
-                    "=",
-                    "2"
-                  ],
-                  "subInstructions": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "MettreY"
-                  },
-                  "parameters": [
-                    "DropPlatform",
-                    "=",
-                    "2011"
-                  ],
-                  "subInstructions": []
-                }
-              ],
-              "events": []
-            },
-            {
-              "disabled": false,
-              "folded": false,
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "VarObjet"
-                  },
-                  "parameters": [
-                    "DropPlatform",
-                    "counter",
-                    "=",
-                    "3"
-                  ],
-                  "subInstructions": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "MettreY"
-                  },
-                  "parameters": [
-                    "DropPlatform",
-                    "=",
-                    "2007"
-                  ],
-                  "subInstructions": []
-                }
-              ],
-              "events": []
-            },
-            {
-              "disabled": false,
-              "folded": false,
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "VarObjet"
-                  },
-                  "parameters": [
-                    "DropPlatform",
-                    "counter",
-                    "=",
-                    "4"
-                  ],
-                  "subInstructions": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "MettreY"
-                  },
-                  "parameters": [
-                    "DropPlatform",
-                    "=",
-                    "2017"
-                  ],
-                  "subInstructions": []
-                }
-              ],
-              "events": []
-            },
-            {
-              "disabled": false,
-              "folded": false,
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "VarObjet"
-                  },
-                  "parameters": [
-                    "DropPlatform",
-                    "counter",
-                    "=",
-                    "5"
-                  ],
-                  "subInstructions": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "MettreY"
-                  },
-                  "parameters": [
-                    "DropPlatform",
-                    "=",
-                    "2029"
-                  ],
-                  "subInstructions": []
-                }
-              ],
-              "events": []
-            },
-            {
-              "disabled": false,
-              "folded": false,
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "VarObjet"
-                  },
-                  "parameters": [
-                    "DropPlatform",
-                    "counter",
-                    "=",
-                    "6"
-                  ],
-                  "subInstructions": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "MettreY"
-                  },
-                  "parameters": [
-                    "DropPlatform",
-                    "=",
-                    "2012"
-                  ],
-                  "subInstructions": []
-                }
-              ],
-              "events": []
-            },
-            {
-              "disabled": false,
-              "folded": false,
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "VarObjet"
-                  },
-                  "parameters": [
-                    "DropPlatform",
-                    "counter",
-                    "=",
-                    "7"
-                  ],
-                  "subInstructions": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "MettreY"
-                  },
-                  "parameters": [
-                    "DropPlatform",
-                    "=",
-                    "2035"
-                  ],
-                  "subInstructions": []
-                }
-              ],
-              "events": []
-            },
-            {
-              "disabled": false,
-              "folded": false,
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "VarObjet"
-                  },
-                  "parameters": [
-                    "DropPlatform",
-                    "counter",
-                    "=",
-                    "8"
-                  ],
-                  "subInstructions": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "MettreY"
-                  },
-                  "parameters": [
-                    "DropPlatform",
-                    "=",
-                    "2000"
-                  ],
-                  "subInstructions": []
-                }
-              ],
-              "events": []
-            },
-            {
-              "disabled": false,
-              "folded": false,
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "VarObjet"
-                  },
-                  "parameters": [
-                    "DropPlatform",
-                    "counter",
-                    "=",
-                    "9"
-                  ],
-                  "subInstructions": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "MettreY"
-                  },
-                  "parameters": [
-                    "DropPlatform",
-                    "=",
-                    "1979"
-                  ],
-                  "subInstructions": []
-                }
-              ],
-              "events": []
-            },
-            {
-              "disabled": false,
-              "folded": false,
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "VarObjet"
-                  },
-                  "parameters": [
-                    "DropPlatform",
-                    "counter",
-                    "=",
-                    "10"
-                  ],
-                  "subInstructions": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "MettreY"
-                  },
-                  "parameters": [
-                    "DropPlatform",
-                    "=",
-                    "2029"
-                  ],
-                  "subInstructions": []
-                }
-              ],
-              "events": []
-            },
-            {
-              "disabled": false,
-              "folded": false,
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "VarObjet"
-                  },
-                  "parameters": [
-                    "DropPlatform",
-                    "counter",
-                    "=",
-                    "11"
-                  ],
-                  "subInstructions": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "MettreY"
-                  },
-                  "parameters": [
-                    "DropPlatform",
-                    "=",
-                    "2430"
-                  ],
-                  "subInstructions": []
-                }
-              ],
-              "events": []
-            },
-            {
-              "disabled": false,
-              "folded": false,
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "VarObjet"
-                  },
-                  "parameters": [
-                    "DropPlatform",
-                    "counter",
-                    "=",
-                    "12"
-                  ],
-                  "subInstructions": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "MettreY"
-                  },
-                  "parameters": [
-                    "DropPlatform",
-                    "=",
-                    "2457"
-                  ],
-                  "subInstructions": []
-                }
-              ],
-              "events": []
-            },
-            {
-              "disabled": false,
-              "folded": false,
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "VarObjet"
-                  },
-                  "parameters": [
-                    "DropPlatform",
-                    "counter",
-                    "=",
-                    "13"
-                  ],
-                  "subInstructions": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "MettreY"
-                  },
-                  "parameters": [
-                    "DropPlatform",
-                    "=",
-                    "2511"
-                  ],
-                  "subInstructions": []
-                }
-              ],
-              "events": []
-            },
-            {
-              "disabled": false,
-              "folded": false,
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "VarObjet"
-                  },
-                  "parameters": [
-                    "DropPlatform",
-                    "counter",
-                    "=",
-                    "14"
-                  ],
-                  "subInstructions": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "MettreY"
-                  },
-                  "parameters": [
-                    "DropPlatform",
-                    "=",
-                    "2555"
-                  ],
-                  "subInstructions": []
-                }
-              ],
-              "events": []
-            },
-            {
-              "disabled": false,
-              "folded": false,
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "VarObjet"
-                  },
-                  "parameters": [
-                    "DropPlatform",
-                    "counter",
-                    "=",
-                    "15"
-                  ],
-                  "subInstructions": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "MettreY"
-                  },
-                  "parameters": [
-                    "DropPlatform",
-                    "=",
-                    "2584"
-                  ],
-                  "subInstructions": []
-                }
-              ],
-              "events": []
-            },
-            {
-              "disabled": false,
-              "folded": false,
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "VarObjet"
-                  },
-                  "parameters": [
-                    "DropPlatform",
-                    "counter",
-                    "=",
-                    "16"
-                  ],
-                  "subInstructions": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "MettreY"
-                  },
-                  "parameters": [
-                    "DropPlatform",
-                    "=",
-                    "2620"
-                  ],
-                  "subInstructions": []
-                }
-              ],
-              "events": []
-            }
-          ]
-        },
-        {
-          "disabled": false,
-          "folded": false,
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": [],
           "events": []
         }
       ]
@@ -22318,7 +22218,7 @@
                   "parameters": [
                     "DropPlatform",
                     "=",
-                    "2430"
+                    "2640"
                   ],
                   "subInstructions": []
                 }
@@ -22353,7 +22253,7 @@
                   "parameters": [
                     "DropPlatform",
                     "=",
-                    "2457"
+                    "2610"
                   ],
                   "subInstructions": []
                 }
@@ -22388,7 +22288,7 @@
                   "parameters": [
                     "DropPlatform",
                     "=",
-                    "2511"
+                    "2622"
                   ],
                   "subInstructions": []
                 }
@@ -22423,7 +22323,7 @@
                   "parameters": [
                     "DropPlatform",
                     "=",
-                    "2555"
+                    "2640"
                   ],
                   "subInstructions": []
                 }
@@ -22458,7 +22358,7 @@
                   "parameters": [
                     "DropPlatform",
                     "=",
-                    "2584"
+                    "2650"
                   ],
                   "subInstructions": []
                 }
