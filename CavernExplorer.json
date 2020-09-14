@@ -2788,6 +2788,24 @@
         "name": "Textures/Gray-1.png",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Textures/map.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Textures/map.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Textures/MiniMap.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Textures/MiniMap.png",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -16472,6 +16490,22 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 112,
+          "layer": "",
+          "locked": false,
+          "name": "MiniMap",
+          "persistentUuid": "14d7436d-8b70-40e5-8774-fdc5215ab4b1",
+          "width": 270,
+          "x": 511,
+          "y": 76,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
@@ -16543,6 +16577,45 @@
                     {
                       "hasCustomCollisionMask": false,
                       "image": "Textures/EndingMessage.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "MiniMap",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Textures/MiniMap.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -16720,7 +16793,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "map.png",
+                      "image": "Textures/map.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
